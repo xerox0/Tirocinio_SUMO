@@ -1,0 +1,11 @@
+<configuration>
+
+<input>
+	<net-file value="Quick_start.net.xml"/>
+	<route-files value="Quick_start.rou.xml"/>
+</input>
+<time>
+	<begin value="0"/>
+	<end value="50"/>
+</time>
+</configuration>
