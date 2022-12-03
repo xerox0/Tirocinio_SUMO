@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on sab 24 set 2022, 02:43:11 by Eclipse SUMO netedit Version 1.8.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
+
+    <input>
+        <sumo-net-file value="/home/toore/Scrivania/Tirocinio/Scanzano.net.xml"/>
+    </input>
+
+    <output>
+        <output-file value="/home/toore/Scrivania/Tirocinio/Scanzano.net.xml"/>
+    </output>
+
+    <processing>
+        <geometry.min-radius.fix.railways value="false"/>
+        <geometry.max-grade.fix value="false"/>
+        <offset.disable-normalization value="true"/>
+        <lefthand value="false"/>
+    </processing>
+
+    <junctions>
+        <no-turnarounds value="true"/>
+        <junctions.corner-detail value="5"/>
+        <junctions.limit-turn-speed value="5.5"/>
+        <rectangular-lane-cut value="false"/>
+    </junctions>
+
+    <pedestrian>
+        <walkingareas value="false"/>
+    </pedestrian>
+
+    <netedit>
+        <route-files value="/home/toore/Scrivania/Tirocinio/Scanz.rou.xml"/>
+    </netedit>
+
+    <report>
+        <aggregate-warnings value="5"/>
+    </report>
+
+</configuration>
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <vType id="DEFAULT_VEHTYPE" vClass="truck"/>
+    <vType id="vType_0"/>
+    <vType id="vType_1"/>
+    <route edges="-265934548#2 265934548#2 -265934548#2 -265934548#1 265934548#1 -265934548#1 265934548#1 799144813 -799144813 265934548#2 -265934548#2 799144813 -799144813 -265934548#1 265934548#1 265934548#2" color="yellow" id="route_0"/>
+    <route edges="799144858#2 -799144858#2 799144858#2 799144858#3 -799144858#3 -799144858#2 799144858#2 -799144858#2 -799144858#1 799144858#1 -799144858#1 -799144858#0 799144858#0 -799144858#0 799144858#0 -799144813 799144813 799144858#1 -799144858#1 -799144813 799144813 -799144858#0 799144858#0 799144858#1" color="yellow" id="route_1"/>
+    <route edges="376797668 185121933#1 185121933#2 185121933#3 185121933#4 376797665 -185118084#4 185118084#4 376797668 185121933#1 185121933#2 185121933#3 185121933#4 185121933#5 376797666 376797667 185121933#2 376797661 376797663 185121933#4 185121933#5 185121933#1 185121933#2 376797661 376797659#0 -376797659#0 376797659#0 185121952#0 185121952#2 185121952#3 185121952#4 -185121944#2 -185121944#1 -185121944#0 -799144858#3 799144858#3 799144858#4 -185121944#0 799144858#4 185121944#1 -185121944#1 185121944#1 185121944#2 -185121944#2 185121944#2 185121944#3 -185121944#3 -185121952#4 -185121952#3 -185121952#2 185121952#2 185121952#3 -185121952#3 185121952#3 185121952#4 -185121952#4 -185121952#3 -185121952#2 185121952#2 -185121952#2 -185121952#0 185121952#0 -185121952#0 -376797659#0 376797659#0 185121952#0 -185121952#0 -376797659#0 376797659#0 185121952#0 -185121952#0 -376797659#0 376797663 185121933#4 185121933#5 185121933#1 185121933#2 185121933#3 185121933#4 185121933#5 185121933#1 185121933#2 185121933#3 185121933#4 185121933#5 185121933#1 185121933#2 185121933#3 185121933#4 185121933#5 376797666 93150233#0 -93150233#0 93150233#0" color="yellow" id="route_2"/>
+    <route edges="gneE1 gneE2 -265934548#2 -265934548#1 -265934387#4 681676248#0 681676248#1 -681676248#1 681676248#1" color="yellow" id="route_3"/>
+    <vehicle id="vehicle_0" depart="0.00" color="red" route="route_1"/>
+    <vehicle id="vehicle_1" depart="0.00" color="blue" route="route_1"/>
+    <vehicle id="vehicle_2" depart="0.00" color="green" route="route_2"/>
+    <vehicle id="vehicle_3" depart="0.00" route="route_3"/>
+    <person id="person_0" depart="0.00">
+        <personTrip from="799145550#3" to="799145550#3"/>
+    </person>
+</routes>

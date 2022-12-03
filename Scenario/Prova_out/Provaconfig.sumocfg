@@ -1,0 +1,11 @@
+<configuration>
+
+<input>
+	<net-file value="Prova.net.xml"/>
+	<route-files value="Prova.rou.xml,peds.rou.xml"/>
+</input>
+<time>
+	<begin value="0"/>
+	<end value="10000"/>
+</time>
+</configuration>

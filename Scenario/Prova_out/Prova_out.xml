@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on Sat Oct 15 13:37:00 2022 by Eclipse SUMO sumo Version 1.8.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="Prova.net.xml"/>
+        <route-files value="Prova.rou.xml"/>
+    </input>
+
+    <output>
+        <full-output value="Prova_out.xml"/>
+    </output>
+
+    <time>
+        <begin value="0"/>
+        <end value="20"/>
+    </time>
+
+</configuration>
+-->
+
+<full-export xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/full_file.xsd">
+    <data timestep="0.00">
+        <vehicles>
+            <vehicle id="vehicle_0" eclass="HBEFA3/PC_G_EU4" CO2="2624.72" CO="164.78" HC="0.81" NOx="1.20" PMx="0.07" fuel="1.13" electricity="0.00" noise="55.94" route="!vehicle_0" type="DEFAULT_VEHTYPE" waiting="0.00" lane="gneE0_0" pos="5.10" speed="0.00" angle="90.00" x="-3.67" y="57.73"/>
+        </vehicles>
+        <edges>
+            <edge id="gneE0" traveltime="86570.00">
+                <lane id="gneE0_0" CO="164.78" CO2="2624.72" NOx="1.20" PMx="0.07" HC="0.81" noise="55.94" fuel="1.13" electricity="0.00" maxspeed="13.89" meanspeed="0.00" occupancy="0.06" vehicle_count="1"/>
+            </edge>
+            <edge id="gneE1" traveltime="2.81">
+                <lane id="gneE1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="13.89" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+        </edges>
+        <tls>
+            <trafficlight id="gneJ1" state="G"/>
+        </tls>
+    </data>
+    <data timestep="1.00">
+        <vehicles>
+            <vehicle id="vehicle_0" eclass="HBEFA3/PC_G_EU4" CO2="2995.77" CO="147.80" HC="0.74" NOx="1.34" PMx="0.07" fuel="1.29" electricity="0.00" noise="62.83" route="!vehicle_0" type="DEFAULT_VEHTYPE" waiting="0.00" lane="gneE0_0" pos="6.54" speed="1.44" angle="90.00" x="-2.23" y="57.73"/>
+        </vehicles>
+        <edges>
+            <edge id="gneE0" traveltime="60.05">
+                <lane id="gneE0_0" CO="147.80" CO2="2995.77" NOx="1.34" PMx="0.07" HC="0.74" noise="62.83" fuel="1.29" electricity="0.00" maxspeed="13.89" meanspeed="1.44" occupancy="0.06" vehicle_count="1"/>
+            </edge>
+            <edge id="gneE1" traveltime="2.81">
+                <lane id="gneE1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="13.89" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+        </edges>
+        <tls>
+            <trafficlight id="gneJ1" state="G"/>
+        </tls>
+    </data>
+    <data timestep="2.00">
+        <vehicles>
+            <vehicle id="vehicle_0" eclass="HBEFA3/PC_G_EU4" CO2="3655.93" CO="135.00" HC="0.70" NOx="1.61" PMx="0.08" fuel="1.57" electricity="0.00" noise="64.53" route="!vehicle_0" type="DEFAULT_VEHTYPE" waiting="0.00" lane="gneE0_0" pos="9.66" speed="3.12" angle="90.00" x="0.89" y="57.73"/>
+        </vehicles>
+        <edges>
+            <edge id="gneE0" traveltime="27.79">
+                <lane id="gneE0_0" CO="135.00" CO2="3655.93" NOx="1.61" PMx="0.08" HC="0.70" noise="64.53" fuel="1.57" electricity="0.00" maxspeed="13.89" meanspeed="3.12" occupancy="0.06" vehicle_count="1"/>
+            </edge>
+            <edge id="gneE1" traveltime="2.81">
+                <lane id="gneE1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="13.89" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+        </edges>
+        <tls>
+            <trafficlight id="gneJ1" state="G"/>
+        </tls>
+    </data>
+    <data timestep="3.00">
+        <vehicles>
+            <vehicle id="vehicle_0" eclass="HBEFA3/PC_G_EU4" CO2="5888.27" CO="145.36" HC="0.80" NOx="2.59" PMx="0.12" fuel="2.53" electricity="0.00" noise="69.40" route="!vehicle_0" type="DEFAULT_VEHTYPE" waiting="0.00" lane="gneE0_0" pos="15.31" speed="5.66" angle="90.00" x="6.54" y="57.73"/>
+        </vehicles>
+        <edges>
+            <edge id="gneE0" traveltime="15.30">
+                <lane id="gneE0_0" CO="145.36" CO2="5888.27" NOx="2.59" PMx="0.12" HC="0.80" noise="69.40" fuel="2.53" electricity="0.00" maxspeed="13.89" meanspeed="5.66" occupancy="0.06" vehicle_count="1"/>
+            </edge>
+            <edge id="gneE1" traveltime="2.81">
+                <lane id="gneE1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="13.89" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+        </edges>
+        <tls>
+            <trafficlight id="gneJ1" state="G"/>
+        </tls>
+    </data>
+    <data timestep="4.00">
+        <vehicles>
+            <vehicle id="vehicle_0" eclass="HBEFA3/PC_G_EU4" CO2="5985.89" CO="123.58" HC="0.70" NOx="2.58" PMx="0.12" fuel="2.57" electricity="0.00" noise="67.79" route="!vehicle_0" type="DEFAULT_VEHTYPE" waiting="0.00" lane="gneE0_0" pos="22.93" speed="7.62" angle="90.00" x="14.16" y="57.73"/>
+        </vehicles>
+        <edges>
+            <edge id="gneE0" traveltime="11.36">
+                <lane id="gneE0_0" CO="123.58" CO2="5985.89" NOx="2.58" PMx="0.12" HC="0.70" noise="67.79" fuel="2.57" electricity="0.00" maxspeed="13.89" meanspeed="7.62" occupancy="0.06" vehicle_count="1"/>
+            </edge>
+            <edge id="gneE1" traveltime="2.81">
+                <lane id="gneE1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="13.89" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+        </edges>
+        <tls>
+            <trafficlight id="gneJ1" state="G"/>
+        </tls>
+    </data>
+    <data timestep="5.00">
+        <vehicles>
+            <vehicle id="vehicle_0" eclass="HBEFA3/PC_G_EU4" CO2="6615.23" CO="117.21" HC="0.69" NOx="2.83" PMx="0.13" fuel="2.84" electricity="0.00" noise="68.15" route="!vehicle_0" type="DEFAULT_VEHTYPE" waiting="0.00" lane="gneE0_0" pos="32.38" speed="9.45" angle="90.00" x="23.61" y="57.73"/>
+        </vehicles>
+        <edges>
+            <edge id="gneE0" traveltime="9.16">
+                <lane id="gneE0_0" CO="117.21" CO2="6615.23" NOx="2.83" PMx="0.13" HC="0.69" noise="68.15" fuel="2.84" electricity="0.00" maxspeed="13.89" meanspeed="9.45" occupancy="0.06" vehicle_count="1"/>
+            </edge>
+            <edge id="gneE1" traveltime="2.81">
+                <lane id="gneE1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="13.89" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+        </edges>
+        <tls>
+            <trafficlight id="gneJ1" state="G"/>
+        </tls>
+    </data>
+    <data timestep="6.00">
+        <vehicles>
+            <vehicle id="vehicle_0" eclass="HBEFA3/PC_G_EU4" CO2="10149.11" CO="167.80" HC="1.01" NOx="4.44" PMx="0.22" fuel="4.36" electricity="0.00" noise="72.34" route="!vehicle_0" type="DEFAULT_VEHTYPE" waiting="0.00" lane="gneE0_0" pos="44.38" speed="11.99" angle="90.00" x="35.61" y="57.73"/>
+        </vehicles>
+        <edges>
+            <edge id="gneE0" traveltime="7.22">
+                <lane id="gneE0_0" CO="167.80" CO2="10149.11" NOx="4.44" PMx="0.22" HC="1.01" noise="72.34" fuel="4.36" electricity="0.00" maxspeed="13.89" meanspeed="11.99" occupancy="0.06" vehicle_count="1"/>
+            </edge>
+            <edge id="gneE1" traveltime="2.81">
+                <lane id="gneE1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="13.89" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+        </edges>
+        <tls>
+            <trafficlight id="gneJ1" state="G"/>
+        </tls>
+    </data>
+    <data timestep="7.00">
+        <vehicles>
+            <vehicle id="vehicle_0" eclass="HBEFA3/PC_G_EU4" CO2="8117.92" CO="114.59" HC="0.72" NOx="3.44" PMx="0.16" fuel="3.49" electricity="0.00" noise="69.52" route="!vehicle_0" type="DEFAULT_VEHTYPE" waiting="0.00" lane="gneE0_0" pos="58.00" speed="13.63" angle="90.00" x="49.23" y="57.73"/>
+        </vehicles>
+        <edges>
+            <edge id="gneE0" traveltime="6.35">
+                <lane id="gneE0_0" CO="114.59" CO2="8117.92" NOx="3.44" PMx="0.16" HC="0.72" noise="69.52" fuel="3.49" electricity="0.00" maxspeed="13.89" meanspeed="13.63" occupancy="0.06" vehicle_count="1"/>
+            </edge>
+            <edge id="gneE1" traveltime="2.81">
+                <lane id="gneE1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="13.89" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+        </edges>
+        <tls>
+            <trafficlight id="gneJ1" state="G"/>
+        </tls>
+    </data>
+    <data timestep="8.00">
+        <vehicles>
+            <vehicle id="vehicle_0" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="63.48" route="!vehicle_0" type="DEFAULT_VEHTYPE" waiting="0.00" lane="gneE0_0" pos="71.32" speed="13.32" angle="90.00" x="62.55" y="57.73"/>
+        </vehicles>
+        <edges>
+            <edge id="gneE0" traveltime="6.50">
+                <lane id="gneE0_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="63.48" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="13.32" occupancy="0.06" vehicle_count="1"/>
+            </edge>
+            <edge id="gneE1" traveltime="2.81">
+                <lane id="gneE1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="13.89" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+        </edges>
+        <tls>
+            <trafficlight id="gneJ1" state="y"/>
+        </tls>
+    </data>
+    <data timestep="9.00">
+        <vehicles>
+            <vehicle id="vehicle_0" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="55.44" route="!vehicle_0" type="DEFAULT_VEHTYPE" waiting="0.00" lane="gneE0_0" pos="80.14" speed="8.82" angle="90.00" x="71.37" y="57.73"/>
+        </vehicles>
+        <edges>
+            <edge id="gneE0" traveltime="9.82">
+                <lane id="gneE0_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="55.44" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="8.82" occupancy="0.06" vehicle_count="1"/>
+            </edge>
+            <edge id="gneE1" traveltime="2.81">
+                <lane id="gneE1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="13.89" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+        </edges>
+        <tls>
+            <trafficlight id="gneJ1" state="y"/>
+        </tls>
+    </data>
+    <data timestep="10.00">
+        <vehicles>
+            <vehicle id="vehicle_0" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="46.97" route="!vehicle_0" type="DEFAULT_VEHTYPE" waiting="0.00" lane="gneE0_0" pos="84.46" speed="4.32" angle="90.00" x="75.69" y="57.73"/>
+        </vehicles>
+        <edges>
+            <edge id="gneE0" traveltime="20.04">
+                <lane id="gneE0_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="46.97" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="4.32" occupancy="0.06" vehicle_count="1"/>
+            </edge>
+            <edge id="gneE1" traveltime="2.81">
+                <lane id="gneE1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="13.89" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+        </edges>
+        <tls>
+            <trafficlight id="gneJ1" state="r"/>
+        </tls>
+    </data>
+    <data timestep="11.00">
+        <vehicles>
+            <vehicle id="vehicle_0" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="42.52" route="!vehicle_0" type="DEFAULT_VEHTYPE" waiting="0.00" lane="gneE0_0" pos="85.57" speed="1.10" angle="90.00" x="76.80" y="57.73"/>
+        </vehicles>
+        <edges>
+            <edge id="gneE0" traveltime="78.45">
+                <lane id="gneE0_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="42.52" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="1.10" occupancy="0.06" vehicle_count="1"/>
+            </edge>
+            <edge id="gneE1" traveltime="2.81">
+                <lane id="gneE1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="13.89" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+        </edges>
+        <tls>
+            <trafficlight id="gneJ1" state="r"/>
+        </tls>
+    </data>
+    <data timestep="12.00">
+        <vehicles>
+            <vehicle id="vehicle_0" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="51.10" route="!vehicle_0" type="DEFAULT_VEHTYPE" waiting="1.00" lane="gneE0_0" pos="85.57" speed="0.00" angle="90.00" x="76.80" y="57.73"/>
+        </vehicles>
+        <edges>
+            <edge id="gneE0" traveltime="39066.40">
+                <lane id="gneE0_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="51.10" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="0.00" occupancy="0.06" vehicle_count="1"/>
+            </edge>
+            <edge id="gneE1" traveltime="2.81">
+                <lane id="gneE1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="13.89" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+        </edges>
+        <tls>
+            <trafficlight id="gneJ1" state="r"/>
+        </tls>
+    </data>
+    <data timestep="13.00">
+        <vehicles>
+            <vehicle id="vehicle_0" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="55.93" route="!vehicle_0" type="DEFAULT_VEHTYPE" waiting="2.00" lane="gneE0_0" pos="85.57" speed="0.00" angle="90.00" x="76.80" y="57.73"/>
+        </vehicles>
+        <edges>
+            <edge id="gneE0" traveltime="86570.00">
+                <lane id="gneE0_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="55.93" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="0.00" occupancy="0.06" vehicle_count="1"/>
+            </edge>
+            <edge id="gneE1" traveltime="2.81">
+                <lane id="gneE1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="13.89" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+        </edges>
+        <tls>
+            <trafficlight id="gneJ1" state="r"/>
+        </tls>
+    </data>
+    <data timestep="14.00">
+        <vehicles>
+            <vehicle id="vehicle_0" eclass="HBEFA3/PC_G_EU4" CO2="0.00" CO="0.00" HC="0.00" NOx="0.00" PMx="0.00" fuel="0.00" electricity="0.00" noise="55.94" route="!vehicle_0" type="DEFAULT_VEHTYPE" waiting="3.00" lane="gneE0_0" pos="85.57" speed="0.00" angle="90.00" x="76.80" y="57.73"/>
+        </vehicles>
+        <edges>
+            <edge id="gneE0" traveltime="86570.00">
+                <lane id="gneE0_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="55.94" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="0.00" occupancy="0.06" vehicle_count="1"/>
+            </edge>
+            <edge id="gneE1" traveltime="2.81">
+                <lane id="gneE1_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="13.89" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+        </edges>
+        <tls>
+            <trafficlight id="gneJ1" state="r"/>
+        </tls>
+    </data>
+    <data timestep="15.00">
+        <vehicles>
+            <vehicle id="vehicle_0" eclass="HBEFA3/PC_G_EU4" CO2="3315.77" CO="147.51" HC="0.75" NOx="1.48" PMx="0.07" fuel="1.43" electricity="0.00" noise="64.86" route="!vehicle_0" type="DEFAULT_VEHTYPE" waiting="0.00" lane="gneE1_0" pos="0.86" speed="1.86" angle="81.45" x="79.47" y="58.60"/>
+        </vehicles>
+        <edges>
+            <edge id="gneE0" traveltime="6.23">
+                <lane id="gneE0_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="13.89" occupancy="0.05" vehicle_count="0"/>
+            </edge>
+            <edge id="gneE1" traveltime="20.97">
+                <lane id="gneE1_0" CO="147.51" CO2="3315.77" NOx="1.48" PMx="0.07" HC="0.75" noise="64.86" fuel="1.43" electricity="0.00" maxspeed="13.89" meanspeed="1.86" occupancy="0.02" vehicle_count="1"/>
+            </edge>
+        </edges>
+        <tls>
+            <trafficlight id="gneJ1" state="G"/>
+        </tls>
+    </data>
+    <data timestep="16.00">
+        <vehicles>
+            <vehicle id="vehicle_0" eclass="HBEFA3/PC_G_EU4" CO2="5220.89" CO="147.70" HC="0.80" NOx="2.31" PMx="0.11" fuel="2.24" electricity="0.00" noise="69.13" route="!vehicle_0" type="DEFAULT_VEHTYPE" waiting="0.00" lane="gneE1_0" pos="5.32" speed="4.46" angle="51.88" x="82.98" y="61.36"/>
+        </vehicles>
+        <edges>
+            <edge id="gneE0" traveltime="6.23">
+                <lane id="gneE0_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="13.89" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+            <edge id="gneE1" traveltime="8.76">
+                <lane id="gneE1_0" CO="147.70" CO2="5220.89" NOx="2.31" PMx="0.11" HC="0.80" noise="69.13" fuel="2.24" electricity="0.00" maxspeed="13.89" meanspeed="4.46" occupancy="0.13" vehicle_count="1"/>
+            </edge>
+        </edges>
+        <tls>
+            <trafficlight id="gneJ1" state="G"/>
+        </tls>
+    </data>
+    <data timestep="17.00">
+        <vehicles>
+            <vehicle id="vehicle_0" eclass="HBEFA3/PC_G_EU4" CO2="5917.32" CO="133.43" HC="0.75" NOx="2.58" PMx="0.12" fuel="2.54" electricity="0.00" noise="68.35" route="!vehicle_0" type="DEFAULT_VEHTYPE" waiting="0.00" lane="gneE1_0" pos="11.98" speed="6.66" angle="51.88" x="88.21" y="65.46"/>
+        </vehicles>
+        <edges>
+            <edge id="gneE0" traveltime="6.23">
+                <lane id="gneE0_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="13.89" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+            <edge id="gneE1" traveltime="5.87">
+                <lane id="gneE1_0" CO="133.43" CO2="5917.32" NOx="2.58" PMx="0.12" HC="0.75" noise="68.35" fuel="2.54" electricity="0.00" maxspeed="13.89" meanspeed="6.66" occupancy="0.13" vehicle_count="1"/>
+            </edge>
+        </edges>
+        <tls>
+            <trafficlight id="gneJ1" state="G"/>
+        </tls>
+    </data>
+    <data timestep="18.00">
+        <vehicles>
+            <vehicle id="vehicle_0" eclass="HBEFA3/PC_G_EU4" CO2="5745.68" CO="110.70" HC="0.64" NOx="2.45" PMx="0.11" fuel="2.47" electricity="0.00" noise="66.97" route="!vehicle_0" type="DEFAULT_VEHTYPE" waiting="0.00" lane="gneE1_0" pos="20.32" speed="8.34" angle="51.88" x="94.77" y="70.61"/>
+        </vehicles>
+        <edges>
+            <edge id="gneE0" traveltime="6.23">
+                <lane id="gneE0_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="13.89" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+            <edge id="gneE1" traveltime="4.69">
+                <lane id="gneE1_0" CO="110.70" CO2="5745.68" NOx="2.45" PMx="0.11" HC="0.64" noise="66.97" fuel="2.47" electricity="0.00" maxspeed="13.89" meanspeed="8.34" occupancy="0.13" vehicle_count="1"/>
+            </edge>
+        </edges>
+        <tls>
+            <trafficlight id="gneJ1" state="G"/>
+        </tls>
+    </data>
+    <data timestep="19.00">
+        <vehicles>
+            <vehicle id="vehicle_0" eclass="HBEFA3/PC_G_EU4" CO2="6702.46" CO="112.98" HC="0.67" NOx="2.86" PMx="0.13" fuel="2.88" electricity="0.00" noise="68.11" route="!vehicle_0" type="DEFAULT_VEHTYPE" waiting="0.00" lane="gneE1_0" pos="30.40" speed="10.08" angle="51.88" x="102.70" y="76.84"/>
+        </vehicles>
+        <edges>
+            <edge id="gneE0" traveltime="6.23">
+                <lane id="gneE0_0" CO="0.00" CO2="0.00" NOx="0.00" PMx="0.00" HC="0.00" noise="0.00" fuel="0.00" electricity="0.00" maxspeed="13.89" meanspeed="13.89" occupancy="0.00" vehicle_count="0"/>
+            </edge>
+            <edge id="gneE1" traveltime="3.88">
+                <lane id="gneE1_0" CO="112.98" CO2="6702.46" NOx="2.86" PMx="0.13" HC="0.67" noise="68.11" fuel="2.88" electricity="0.00" maxspeed="13.89" meanspeed="10.08" occupancy="0.13" vehicle_count="1"/>
+            </edge>
+        </edges>
+        <tls>
+            <trafficlight id="gneJ1" state="G"/>
+        </tls>
+    </data>
+</full-export>
