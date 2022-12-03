@@ -1,0 +1,10 @@
+
+Tracce== MOdelli di esempio.
+Vedere tracce di mobilità oltre le classihce ma dove prendiamo 
+output anche da sensori fissi, ma anche da utenti in movimento come i pedoni,
+oppure strade e alunga percorrenza.
+
+Vediamo se l'output è compatiile con OMNET . Vedere anche università del lussemburgo 
+
+
+

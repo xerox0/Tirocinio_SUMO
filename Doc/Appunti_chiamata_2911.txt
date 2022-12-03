@@ -1,0 +1,10 @@
+Simulazioni realistiche , con OUTPUT di velocità , densità aree toccate (usare griglie ,se non ci sono da sumo allora farlo a manaccia sovrapponendo una scrematura tramite codice) , fare istogramma con x aree e y pedoni che ci so passati. Fare 5/6 simulazioni con molti pedoni , aree grandi. Cercare di rendere casuale il cammino dei pedoni in situazioni reali come centro di MOdena.  Mandare report dopo il primo per capire se si sta procedendo nella giusta direzione. 
+Output:
+-Aree toccate dai pedoni
+-Densità
+-Velocità media
+-ID pedone. 
+-time to stamp
+
+Una volta avuta una prima simulazione , possiamo provare a  modificare alcuni parametri per vedere come variano gli output di una stessa simulazione ma con parametri diversi (ad esempio velocità diversa).
+Non solo sui pedoni , anche sui veicoli le simulazioni , le prime però sui pedoni.
