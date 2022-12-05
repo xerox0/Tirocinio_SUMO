@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on lun 5 dic 2022, 17:35:30 by Eclipse SUMO netedit Version 1.8.0
+<!-- generated on lun 5 dic 2022, 11:11:16 by Eclipse SUMO netedit Version 1.8.0
 <configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/netconvertConfiguration.xsd">
 
     <input>
-        <sumo-net-file value="/home/toore/Tirocinio_SUMO/Scenario/MOdifica_area_pedonale/Area_pedonale.net.xml"/>
+        <sumo-net-file value="/home/toore/Tirocinio_SUMO/Scenario/Modena/osm.net.xml"/>
     </input>
 
     <output>
-        <output-file value="/home/toore/Tirocinio_SUMO/Scenario/MOdifica_area_pedonale/Area_pedonale.net.xml"/>
+        <output-file value="/home/toore/Tirocinio_SUMO/Scenario/Modena/osm.net.xml"/>
+        <output.street-names value="true"/>
     </output>
 
     <processing>
@@ -19,7 +20,6 @@
     </processing>
 
     <junctions>
-        <no-internal-links value="true"/>
         <no-turnarounds value="true"/>
         <junctions.corner-detail value="5"/>
         <junctions.limit-turn-speed value="5.5"/>
@@ -31,7 +31,7 @@
     </pedestrian>
 
     <netedit>
-        <route-files value="/home/toore/Tirocinio_SUMO/Scenario/MOdifica_area_pedonale/Area_pedonale.rou.xml"/>
+        <route-files value="/home/toore/Tirocinio_SUMO/Scenario/Modena/osm.rou.xml"/>
     </netedit>
 
     <report>
@@ -43,6 +43,6 @@
 
 <routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
     <person id="person_0" depart="0.00">
-        <personTrip from="-gneE0" to="gneE2"/>
+        <personTrip from="28998778#1" to="28998778#1"/>
     </person>
 </routes>

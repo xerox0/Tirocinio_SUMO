@@ -2,11 +2,11 @@
 
 <input>
 	<net-file value="Area_pedonale.net.xml"/>
-	<route-files value="Area_pedonale.rou.xml"/>
+	<route-files value="Area_pedonale.rou.xml,peds.rou.xml"/>
 </input>
 <time>
 	<begin value="0"/>
-	<end value="50"/>
+	<end value="50000"/>
 </time>
 </configuration>
 
