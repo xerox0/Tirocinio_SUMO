@@ -2,7 +2,7 @@
 
 <input>
 	<net-file value="Area_pedonale.net.xml"/>
-	<route-files value="Area_pedonale.rou.xml,peds.rou.xml"/>
+	<route-files value="Area_pedonale.rou.xml,persontrip.rou.xml"/>
 </input>
 <time>
 	<begin value="0"/>

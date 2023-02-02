@@ -2,8 +2,13 @@
 
 Identificati i vari tipi di output gestibili per i pedoni per le statistiche https://sumo.dlr.de/docs/Simulation/Output/StatisticOutput.html con particolare attenzione all'estensione per i pedoni descritta ad inizio pagina.
 
+
+
+
 Trovato modo per generare istogramma all'indirizzo della documentazione https://sumo.dlr.de/docs/Tools/Visualization.html#plot_tripinfo_distributionspy , ma bisogna capire l'output generato.
 
 NB. é probabile che per far partire random i pedoni dobbiamo inizialmente avere almeno un pedone sulla simulazione.
+	Interessante con tools/pedestriansFlow.py per un flusso stabilito. 
+	Da provare anche l'opzione di randomtrips --persontrips
 
 Prossimi step capire la griglia che è presente su netedit e traci

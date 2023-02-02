@@ -10,7 +10,9 @@
 	    <route-files value="osm.rou.xml,peds.rou.xml"/>
         <additional-files value="osm.poly.xml"/>
     </input>
-
+    <output>
+  	 <netstate-dump value="base.xml" />
+    </output>
     <processing>
         <ignore-route-errors value="true"/>
     </processing>
