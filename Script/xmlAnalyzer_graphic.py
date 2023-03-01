@@ -6,7 +6,7 @@ import numpy as np
 # Definisci gli argomenti da linea di comando
 parser = argparse.ArgumentParser()
 parser.add_argument('file', type=str, help='nome del file XML contenente le coordinate')
-parser.add_argument('--n', type=int, default=10, help='dimensione della griglia (default: 10)')
+parser.add_argument('--n', type=int, default=10, help='dimensione della griglia (default: 10,max:100)')
 args = parser.parse_args()
 
 # Leggi il file XML e ottieni le coordinate x e y
