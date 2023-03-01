@@ -1,41 +1,51 @@
 import xml.etree.ElementTree as ET
+import matplotlib.pyplot as plt
+import numpy as np
 
-# Leggi il file XML
+# Lettura del file XML
 tree = ET.parse('/home/toore/Tirocinio_SUMO/Scenario/Modena/fcd_dump.xml')
 root = tree.getroot()
 
-# Crea un dizionario per le informazioni sui veicoli/persone
-veicoli = {}
+# Estrazione delle coordinate
+coords = []
+for point in root.findall('.//person'):
+    x = float(point.get('x'))
+    y = float(point.get('y'))
+    coords.append((x, y))
 
-# Definisci la griglia quadrata di celle con dimensioni fisse
-dim_cella = 10 # dimensione della cella in metri
-x_min, y_min, x_max, y_max = (0, 0, 1000, 1000) # coordinate della mappa
-celle = []
-for x in range(x_min, x_max, dim_cella):
-    for y in range(y_min, y_max, dim_cella):
-        celle.append(Cell(x, y))
+# Dimensione della griglia da linea di comando
+grid_size = int(input("Inserisci la dimensione della griglia: "))
 
-# Analizza i dati per ogni veicolo/persona
-for veicolo in root.findall('.//veicolo'):
-    id_veicolo = veicolo.get('id')
-    celle_visit = [] # lista di celle visitate
-    last_cella = None # ultima cella visitata
-    num_cambi_cella = 0 # numero di cambi di cella
-    for pos in veicolo.findall('./posizione'):
-        x = float(pos.get('x'))
-        y = float(pos.get('y'))
-        cella = get_cella(x, y, celle) # ottieni la cella corrispondente
-        if cella is not None:
-            if cella != last_cella:
-                num_cambi_cella += 1
-                last_cella = cella
-            if cella not in celle_visit:
-                celle_visit.append(cella)
-    veicoli[id_veicolo] = [celle_visit, num_cambi_cella]
+# Calcolo dei valori massimi e minimi di x e y
+min_x = min(coords, key=lambda x: x[0])[0]
+max_x = max(coords, key=lambda x: x[0])[0]
+min_y = min(coords, key=lambda x: x[1])[1]
+max_y = max(coords, key=lambda x: x[1])[1]
 
-# Funzione per ottenere la cella corrispondente alle coordinate (x, y)
-def get_cella(x, y, celle):
-    for cella in celle:
-        if cella.x <= x < cella.x + dim_cella and cella.y <= y < cella.y + dim_cella:
-            return cella
-    return None
+# Creazione della griglia
+x_step = (max_x - min_x) / grid_size
+y_step = (max_y - min_y) / grid_size
+grid = np.zeros((grid_size, grid_size))
+for coord in coords:
+    x_idx = int((coord[0] - min_x) // x_step)
+    y_idx = int((coord[1] - min_y) // y_step)
+    if x_idx >= grid_size or y_idx >= grid_size:
+        continue
+    grid[x_idx, y_idx] += 1
+
+# Disegno del grafico
+fig, ax = plt.subplots()
+im = ax.imshow(grid, cmap='YlOrRd')
+
+# Annotazione delle coordinate sulla griglia
+for i in range(grid_size):
+    for j in range(grid_size):
+        text = ax.text(j, i, f"{grid[i, j]}\n({min_x+j*x_step:.2f}, {min_y+i*y_step:.2f})",
+                       ha="center", va="center", color="white")
+
+# Aggiunta della legenda
+cbar = ax.figure.colorbar(im, ax=ax)
+cbar.ax.set_ylabel("Frequenza", rotation=-90, va="bottom")
+
+# Visualizzazione del grafico
+plt.show()
