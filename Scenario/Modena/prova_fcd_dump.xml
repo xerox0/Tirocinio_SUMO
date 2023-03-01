@@ -1,0 +1,5 @@
+ <timestep time="4.00">
+        <person id="1" x="222.22" y="524.98" angle="117.38" speed="1.33" pos="2.53" edge="-191979122" slope="0.00"/>
+        <person id="3" x="232.14" y="643.57" angle="216.29" speed="1.27" pos="1.27" edge="23195804#0" slope="0.00"/>
+
+    </timestep>
