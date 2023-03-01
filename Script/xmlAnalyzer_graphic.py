@@ -40,10 +40,10 @@ for i, j in zip(x_coords, y_coords):
 fig, ax = plt.subplots()
 im = ax.imshow(grid, cmap='inferno')
 
-# Aggiungi i numeri di conteggio come testo nelle celle della griglia
-for i in range(args.n):
-    for j in range(args.n):
-        text = ax.text(j, i, grid[i][j], ha='center', va='center', color='white')
+# # Aggiungi i numeri di conteggio come testo nelle celle della griglia
+# for i in range(args.n):
+#     for j in range(args.n):
+#         text = ax.text(j, i, grid[i][j], ha='center', va='center', color='white')
 
 # Aggiungi una barra di colori per la visualizzazione
 cbar = ax.figure.colorbar(im, ax=ax)
