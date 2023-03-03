@@ -1,1374 +1,1374 @@
 ID: person_0
-Numero di celle visitate: 68
-Numero di cambi di cella: 67
+Numero di celle visitate: 21
+Numero di cambi di cella: 61
 
 ID: 0
-Numero di celle visitate: 86
-Numero di cambi di cella: 85
+Numero di celle visitate: 22
+Numero di cambi di cella: 76
 
 ID: 1
-Numero di celle visitate: 207
-Numero di cambi di cella: 206
-
-ID: 2
-Numero di celle visitate: 215
-Numero di cambi di cella: 214
-
-ID: 3
-Numero di celle visitate: 327
-Numero di cambi di cella: 326
-
-ID: 4
-Numero di celle visitate: 469
-Numero di cambi di cella: 468
-
-ID: 5
-Numero di celle visitate: 190
-Numero di cambi di cella: 189
-
-ID: 6
-Numero di celle visitate: 200
-Numero di cambi di cella: 199
-
-ID: 7
-Numero di celle visitate: 483
-Numero di cambi di cella: 482
-
-ID: 8
-Numero di celle visitate: 286
-Numero di cambi di cella: 285
-
-ID: 10
-Numero di celle visitate: 209
-Numero di cambi di cella: 208
-
-ID: 9
-Numero di celle visitate: 354
-Numero di cambi di cella: 353
-
-ID: 11
-Numero di celle visitate: 371
-Numero di cambi di cella: 370
-
-ID: 12
-Numero di celle visitate: 81
-Numero di cambi di cella: 80
-
-ID: 13
-Numero di celle visitate: 477
-Numero di cambi di cella: 476
-
-ID: 14
-Numero di celle visitate: 194
-Numero di cambi di cella: 193
-
-ID: 15
-Numero di celle visitate: 164
-Numero di cambi di cella: 163
-
-ID: 16
-Numero di celle visitate: 154
-Numero di cambi di cella: 153
-
-ID: 17
-Numero di celle visitate: 325
-Numero di cambi di cella: 324
-
-ID: 18
-Numero di celle visitate: 346
-Numero di cambi di cella: 345
-
-ID: 19
-Numero di celle visitate: 311
-Numero di cambi di cella: 310
-
-ID: 20
-Numero di celle visitate: 465
-Numero di cambi di cella: 464
-
-ID: 21
-Numero di celle visitate: 268
-Numero di cambi di cella: 267
-
-ID: 22
-Numero di celle visitate: 211
-Numero di cambi di cella: 210
-
-ID: 23
-Numero di celle visitate: 293
-Numero di cambi di cella: 292
-
-ID: 25
-Numero di celle visitate: 21
-Numero di cambi di cella: 20
-
-ID: 24
-Numero di celle visitate: 457
-Numero di cambi di cella: 456
-
-ID: 26
-Numero di celle visitate: 306
-Numero di cambi di cella: 305
-
-ID: 27
-Numero di celle visitate: 435
-Numero di cambi di cella: 434
-
-ID: 28
-Numero di celle visitate: 356
-Numero di cambi di cella: 355
-
-ID: 29
-Numero di celle visitate: 233
-Numero di cambi di cella: 232
-
-ID: 31
-Numero di celle visitate: 246
-Numero di cambi di cella: 245
-
-ID: 30
-Numero di celle visitate: 314
-Numero di cambi di cella: 313
-
-ID: 33
-Numero di celle visitate: 361
-Numero di cambi di cella: 360
-
-ID: 32
-Numero di celle visitate: 384
-Numero di cambi di cella: 383
-
-ID: 34
-Numero di celle visitate: 143
-Numero di cambi di cella: 142
-
-ID: 35
-Numero di celle visitate: 406
-Numero di cambi di cella: 405
-
-ID: 36
-Numero di celle visitate: 179
-Numero di cambi di cella: 178
-
-ID: 37
-Numero di celle visitate: 262
-Numero di cambi di cella: 261
-
-ID: 38
-Numero di celle visitate: 315
-Numero di cambi di cella: 314
-
-ID: 39
-Numero di celle visitate: 418
-Numero di cambi di cella: 417
-
-ID: 40
-Numero di celle visitate: 356
-Numero di cambi di cella: 355
-
-ID: 41
-Numero di celle visitate: 269
-Numero di cambi di cella: 268
-
-ID: 42
-Numero di celle visitate: 271
-Numero di cambi di cella: 270
-
-ID: 43
-Numero di celle visitate: 180
-Numero di cambi di cella: 179
-
-ID: 45
-Numero di celle visitate: 368
-Numero di cambi di cella: 367
-
-ID: 44
-Numero di celle visitate: 234
-Numero di cambi di cella: 233
-
-ID: 46
-Numero di celle visitate: 346
-Numero di cambi di cella: 345
-
-ID: 48
-Numero di celle visitate: 412
-Numero di cambi di cella: 411
-
-ID: 47
-Numero di celle visitate: 387
-Numero di cambi di cella: 386
-
-ID: 49
-Numero di celle visitate: 29
-Numero di cambi di cella: 28
-
-ID: 50
-Numero di celle visitate: 80
-Numero di cambi di cella: 79
-
-ID: 51
-Numero di celle visitate: 293
-Numero di cambi di cella: 292
-
-ID: 52
-Numero di celle visitate: 116
-Numero di cambi di cella: 115
-
-ID: 54
-Numero di celle visitate: 322
-Numero di cambi di cella: 321
-
-ID: 55
-Numero di celle visitate: 112
-Numero di cambi di cella: 111
-
-ID: 53
-Numero di celle visitate: 393
-Numero di cambi di cella: 392
-
-ID: 57
-Numero di celle visitate: 228
-Numero di cambi di cella: 227
-
-ID: 56
-Numero di celle visitate: 404
-Numero di cambi di cella: 403
-
-ID: 58
-Numero di celle visitate: 401
-Numero di cambi di cella: 400
-
-ID: 59
-Numero di celle visitate: 291
-Numero di cambi di cella: 290
-
-ID: 60
-Numero di celle visitate: 227
-Numero di cambi di cella: 226
-
-ID: 61
-Numero di celle visitate: 305
-Numero di cambi di cella: 304
-
-ID: 62
-Numero di celle visitate: 190
-Numero di cambi di cella: 189
-
-ID: 63
-Numero di celle visitate: 304
-Numero di cambi di cella: 303
-
-ID: 64
-Numero di celle visitate: 392
-Numero di cambi di cella: 391
-
-ID: 65
-Numero di celle visitate: 327
-Numero di cambi di cella: 326
-
-ID: 66
-Numero di celle visitate: 315
-Numero di cambi di cella: 314
-
-ID: 67
-Numero di celle visitate: 389
-Numero di cambi di cella: 388
-
-ID: 68
-Numero di celle visitate: 257
-Numero di cambi di cella: 256
-
-ID: 69
-Numero di celle visitate: 118
-Numero di cambi di cella: 117
-
-ID: 70
-Numero di celle visitate: 217
-Numero di cambi di cella: 216
-
-ID: 72
-Numero di celle visitate: 289
-Numero di cambi di cella: 288
-
-ID: 71
-Numero di celle visitate: 282
-Numero di cambi di cella: 281
-
-ID: 73
-Numero di celle visitate: 94
-Numero di cambi di cella: 93
-
-ID: 75
-Numero di celle visitate: 292
-Numero di cambi di cella: 291
-
-ID: 74
-Numero di celle visitate: 103
-Numero di cambi di cella: 102
-
-ID: 76
-Numero di celle visitate: 272
-Numero di cambi di cella: 271
-
-ID: 77
-Numero di celle visitate: 242
-Numero di cambi di cella: 241
-
-ID: 79
-Numero di celle visitate: 137
-Numero di cambi di cella: 136
-
-ID: 78
-Numero di celle visitate: 196
+Numero di celle visitate: 74
 Numero di cambi di cella: 195
 
-ID: 80
-Numero di celle visitate: 98
-Numero di cambi di cella: 97
+ID: 2
+Numero di celle visitate: 76
+Numero di cambi di cella: 207
 
-ID: 83
-Numero di celle visitate: 97
-Numero di cambi di cella: 96
+ID: 3
+Numero di celle visitate: 116
+Numero di cambi di cella: 315
 
-ID: 82
-Numero di celle visitate: 330
-Numero di cambi di cella: 329
+ID: 4
+Numero di celle visitate: 133
+Numero di cambi di cella: 454
 
-ID: 81
-Numero di celle visitate: 53
-Numero di cambi di cella: 52
+ID: 5
+Numero di celle visitate: 64
+Numero di cambi di cella: 179
 
-ID: 84
-Numero di celle visitate: 283
+ID: 6
+Numero di celle visitate: 58
+Numero di cambi di cella: 195
+
+ID: 7
+Numero di celle visitate: 152
+Numero di cambi di cella: 465
+
+ID: 8
+Numero di celle visitate: 82
 Numero di cambi di cella: 282
 
-ID: 85
-Numero di celle visitate: 241
-Numero di cambi di cella: 240
+ID: 10
+Numero di celle visitate: 69
+Numero di cambi di cella: 197
 
-ID: 86
-Numero di celle visitate: 300
-Numero di cambi di cella: 299
-
-ID: 87
-Numero di celle visitate: 215
-Numero di cambi di cella: 214
-
-ID: 88
-Numero di celle visitate: 356
-Numero di cambi di cella: 355
-
-ID: 89
-Numero di celle visitate: 63
-Numero di cambi di cella: 62
-
-ID: 91
-Numero di celle visitate: 355
-Numero di cambi di cella: 354
-
-ID: 90
-Numero di celle visitate: 103
-Numero di cambi di cella: 102
-
-ID: 92
-Numero di celle visitate: 210
-Numero di cambi di cella: 209
-
-ID: 94
-Numero di celle visitate: 353
-Numero di cambi di cella: 352
-
-ID: 93
-Numero di celle visitate: 157
-Numero di cambi di cella: 156
-
-ID: 95
-Numero di celle visitate: 191
-Numero di cambi di cella: 190
-
-ID: 97
-Numero di celle visitate: 204
-Numero di cambi di cella: 203
-
-ID: 96
-Numero di celle visitate: 347
+ID: 9
+Numero di celle visitate: 121
 Numero di cambi di cella: 346
 
-ID: 98
-Numero di celle visitate: 338
-Numero di cambi di cella: 337
+ID: 11
+Numero di celle visitate: 133
+Numero di cambi di cella: 363
 
-ID: 101
-Numero di celle visitate: 169
-Numero di cambi di cella: 168
+ID: 12
+Numero di celle visitate: 27
+Numero di cambi di cella: 70
 
-ID: 99
-Numero di celle visitate: 234
-Numero di cambi di cella: 233
+ID: 13
+Numero di celle visitate: 145
+Numero di cambi di cella: 466
 
-ID: 100
-Numero di celle visitate: 345
-Numero di cambi di cella: 344
-
-ID: 102
-Numero di celle visitate: 344
-Numero di cambi di cella: 343
-
-ID: 103
-Numero di celle visitate: 329
-Numero di cambi di cella: 328
-
-ID: 104
-Numero di celle visitate: 121
-Numero di cambi di cella: 120
-
-ID: 105
-Numero di celle visitate: 155
-Numero di cambi di cella: 154
-
-ID: 106
-Numero di celle visitate: 288
-Numero di cambi di cella: 287
-
-ID: 107
-Numero di celle visitate: 266
-Numero di cambi di cella: 265
-
-ID: 109
-Numero di celle visitate: 257
-Numero di cambi di cella: 256
-
-ID: 110
-Numero di celle visitate: 326
-Numero di cambi di cella: 325
-
-ID: 111
-Numero di celle visitate: 327
-Numero di cambi di cella: 326
-
-ID: 112
-Numero di celle visitate: 330
-Numero di cambi di cella: 329
-
-ID: 116
-Numero di celle visitate: 285
-Numero di cambi di cella: 284
-
-ID: 114
-Numero di celle visitate: 108
-Numero di cambi di cella: 107
-
-ID: 115
-Numero di celle visitate: 188
-Numero di cambi di cella: 187
-
-ID: 117
-Numero di celle visitate: 279
-Numero di cambi di cella: 278
-
-ID: 119
-Numero di celle visitate: 264
-Numero di cambi di cella: 263
-
-ID: 118
-Numero di celle visitate: 293
-Numero di cambi di cella: 292
-
-ID: 120
-Numero di celle visitate: 194
-Numero di cambi di cella: 193
-
-ID: 121
-Numero di celle visitate: 241
-Numero di cambi di cella: 240
-
-ID: 122
-Numero di celle visitate: 122
-Numero di cambi di cella: 121
-
-ID: 123
-Numero di celle visitate: 51
-Numero di cambi di cella: 50
-
-ID: 124
-Numero di celle visitate: 134
-Numero di cambi di cella: 133
-
-ID: 126
-Numero di celle visitate: 315
-Numero di cambi di cella: 314
-
-ID: 125
-Numero di celle visitate: 225
-Numero di cambi di cella: 224
-
-ID: 127
-Numero di celle visitate: 237
-Numero di cambi di cella: 236
-
-ID: 128
-Numero di celle visitate: 130
-Numero di cambi di cella: 129
-
-ID: 129
-Numero di celle visitate: 188
-Numero di cambi di cella: 187
-
-ID: 132
-Numero di celle visitate: 185
+ID: 14
+Numero di celle visitate: 62
 Numero di cambi di cella: 184
 
-ID: 130
-Numero di celle visitate: 182
-Numero di cambi di cella: 181
+ID: 15
+Numero di celle visitate: 42
+Numero di cambi di cella: 142
 
-ID: 131
-Numero di celle visitate: 110
-Numero di cambi di cella: 109
+ID: 16
+Numero di celle visitate: 48
+Numero di cambi di cella: 151
 
-ID: 133
-Numero di celle visitate: 310
-Numero di cambi di cella: 309
+ID: 17
+Numero di celle visitate: 113
+Numero di cambi di cella: 317
 
-ID: 134
-Numero di celle visitate: 131
-Numero di cambi di cella: 130
+ID: 18
+Numero di celle visitate: 126
+Numero di cambi di cella: 330
 
-ID: 135
-Numero di celle visitate: 306
-Numero di cambi di cella: 305
-
-ID: 136
-Numero di celle visitate: 90
-Numero di cambi di cella: 89
-
-ID: 137
-Numero di celle visitate: 23
-Numero di cambi di cella: 22
-
-ID: 138
-Numero di celle visitate: 304
-Numero di cambi di cella: 303
-
-ID: 139
-Numero di celle visitate: 303
-Numero di cambi di cella: 302
-
-ID: 140
-Numero di celle visitate: 150
-Numero di cambi di cella: 149
-
-ID: 142
-Numero di celle visitate: 229
-Numero di cambi di cella: 228
-
-ID: 141
-Numero di celle visitate: 297
-Numero di cambi di cella: 296
-
-ID: 144
-Numero di celle visitate: 292
+ID: 19
+Numero di celle visitate: 108
 Numero di cambi di cella: 291
 
-ID: 143
-Numero di celle visitate: 177
-Numero di cambi di cella: 176
+ID: 20
+Numero di celle visitate: 162
+Numero di cambi di cella: 435
 
-ID: 145
-Numero di celle visitate: 290
-Numero di cambi di cella: 289
+ID: 21
+Numero di celle visitate: 82
+Numero di cambi di cella: 262
 
-ID: 146
-Numero di celle visitate: 236
-Numero di cambi di cella: 235
+ID: 22
+Numero di celle visitate: 61
+Numero di cambi di cella: 193
 
-ID: 147
-Numero di celle visitate: 274
-Numero di cambi di cella: 273
+ID: 23
+Numero di celle visitate: 90
+Numero di cambi di cella: 281
 
-ID: 148
-Numero di celle visitate: 280
-Numero di cambi di cella: 279
+ID: 25
+Numero di celle visitate: 7
+Numero di cambi di cella: 18
 
-ID: 149
-Numero di celle visitate: 250
-Numero di cambi di cella: 249
+ID: 24
+Numero di celle visitate: 138
+Numero di cambi di cella: 446
 
-ID: 150
-Numero di celle visitate: 165
-Numero di cambi di cella: 164
+ID: 26
+Numero di celle visitate: 94
+Numero di cambi di cella: 278
 
-ID: 152
-Numero di celle visitate: 280
-Numero di cambi di cella: 279
+ID: 27
+Numero di celle visitate: 164
+Numero di cambi di cella: 421
 
-ID: 151
-Numero di celle visitate: 244
+ID: 28
+Numero di celle visitate: 116
+Numero di cambi di cella: 342
+
+ID: 29
+Numero di celle visitate: 89
+Numero di cambi di cella: 225
+
+ID: 31
+Numero di celle visitate: 75
+Numero di cambi di cella: 237
+
+ID: 30
+Numero di celle visitate: 112
+Numero di cambi di cella: 307
+
+ID: 33
+Numero di celle visitate: 121
+Numero di cambi di cella: 352
+
+ID: 32
+Numero di celle visitate: 154
+Numero di cambi di cella: 371
+
+ID: 34
+Numero di celle visitate: 51
+Numero di cambi di cella: 134
+
+ID: 35
+Numero di celle visitate: 134
+Numero di cambi di cella: 395
+
+ID: 36
+Numero di celle visitate: 75
+Numero di cambi di cella: 163
+
+ID: 37
+Numero di celle visitate: 92
 Numero di cambi di cella: 243
 
-ID: 153
-Numero di celle visitate: 278
-Numero di cambi di cella: 277
+ID: 38
+Numero di celle visitate: 98
+Numero di cambi di cella: 301
 
-ID: 154
-Numero di celle visitate: 277
-Numero di cambi di cella: 276
+ID: 39
+Numero di celle visitate: 142
+Numero di cambi di cella: 405
 
-ID: 155
-Numero di celle visitate: 197
-Numero di cambi di cella: 196
+ID: 40
+Numero di celle visitate: 116
+Numero di cambi di cella: 336
 
-ID: 156
-Numero di celle visitate: 275
-Numero di cambi di cella: 274
+ID: 41
+Numero di celle visitate: 88
+Numero di cambi di cella: 256
 
-ID: 157
-Numero di celle visitate: 274
-Numero di cambi di cella: 273
+ID: 42
+Numero di celle visitate: 90
+Numero di cambi di cella: 261
 
-ID: 158
-Numero di celle visitate: 273
-Numero di cambi di cella: 272
+ID: 43
+Numero di celle visitate: 62
+Numero di cambi di cella: 169
 
-ID: 159
-Numero di celle visitate: 272
-Numero di cambi di cella: 271
+ID: 45
+Numero di celle visitate: 123
+Numero di cambi di cella: 354
 
-ID: 160
-Numero di celle visitate: 272
-Numero di cambi di cella: 271
+ID: 44
+Numero di celle visitate: 88
+Numero di cambi di cella: 218
 
-ID: 161
-Numero di celle visitate: 270
+ID: 46
+Numero di celle visitate: 109
+Numero di cambi di cella: 332
+
+ID: 48
+Numero di celle visitate: 109
+Numero di cambi di cella: 386
+
+ID: 47
+Numero di celle visitate: 118
+Numero di cambi di cella: 376
+
+ID: 49
+Numero di celle visitate: 10
+Numero di cambi di cella: 15
+
+ID: 50
+Numero di celle visitate: 29
+Numero di cambi di cella: 70
+
+ID: 51
+Numero di celle visitate: 98
 Numero di cambi di cella: 269
 
-ID: 163
-Numero di celle visitate: 141
+ID: 52
+Numero di celle visitate: 48
+Numero di cambi di cella: 104
+
+ID: 54
+Numero di celle visitate: 94
+Numero di cambi di cella: 302
+
+ID: 55
+Numero di celle visitate: 36
+Numero di cambi di cella: 104
+
+ID: 53
+Numero di celle visitate: 133
+Numero di cambi di cella: 368
+
+ID: 57
+Numero di celle visitate: 83
+Numero di cambi di cella: 216
+
+ID: 56
+Numero di celle visitate: 152
+Numero di cambi di cella: 388
+
+ID: 58
+Numero di celle visitate: 132
+Numero di cambi di cella: 386
+
+ID: 59
+Numero di celle visitate: 105
+Numero di cambi di cella: 276
+
+ID: 60
+Numero di celle visitate: 83
+Numero di cambi di cella: 214
+
+ID: 61
+Numero di celle visitate: 102
+Numero di cambi di cella: 291
+
+ID: 62
+Numero di celle visitate: 61
+Numero di cambi di cella: 177
+
+ID: 63
+Numero di celle visitate: 100
+Numero di cambi di cella: 302
+
+ID: 64
+Numero di celle visitate: 113
+Numero di cambi di cella: 373
+
+ID: 65
+Numero di celle visitate: 103
+Numero di cambi di cella: 316
+
+ID: 66
+Numero di celle visitate: 88
+Numero di cambi di cella: 300
+
+ID: 67
+Numero di celle visitate: 139
+Numero di cambi di cella: 358
+
+ID: 68
+Numero di celle visitate: 95
+Numero di cambi di cella: 244
+
+ID: 69
+Numero di celle visitate: 38
+Numero di cambi di cella: 102
+
+ID: 70
+Numero di celle visitate: 68
+Numero di cambi di cella: 202
+
+ID: 72
+Numero di celle visitate: 101
+Numero di cambi di cella: 274
+
+ID: 71
+Numero di celle visitate: 88
+Numero di cambi di cella: 263
+
+ID: 73
+Numero di celle visitate: 34
+Numero di cambi di cella: 87
+
+ID: 75
+Numero di celle visitate: 103
+Numero di cambi di cella: 286
+
+ID: 74
+Numero di celle visitate: 33
+Numero di cambi di cella: 85
+
+ID: 76
+Numero di celle visitate: 98
+Numero di cambi di cella: 259
+
+ID: 77
+Numero di celle visitate: 86
+Numero di cambi di cella: 233
+
+ID: 79
+Numero di celle visitate: 45
+Numero di cambi di cella: 126
+
+ID: 78
+Numero di celle visitate: 76
+Numero di cambi di cella: 190
+
+ID: 80
+Numero di celle visitate: 33
+Numero di cambi di cella: 84
+
+ID: 83
+Numero di celle visitate: 38
+Numero di cambi di cella: 87
+
+ID: 82
+Numero di celle visitate: 102
+Numero di cambi di cella: 314
+
+ID: 81
+Numero di celle visitate: 19
+Numero di cambi di cella: 45
+
+ID: 84
+Numero di celle visitate: 89
+Numero di cambi di cella: 274
+
+ID: 85
+Numero di celle visitate: 81
+Numero di cambi di cella: 231
+
+ID: 86
+Numero di celle visitate: 103
+Numero di cambi di cella: 284
+
+ID: 87
+Numero di celle visitate: 70
+Numero di cambi di cella: 199
+
+ID: 88
+Numero di celle visitate: 125
+Numero di cambi di cella: 352
+
+ID: 89
+Numero di celle visitate: 19
+Numero di cambi di cella: 49
+
+ID: 91
+Numero di celle visitate: 97
+Numero di cambi di cella: 349
+
+ID: 90
+Numero di celle visitate: 31
+Numero di cambi di cella: 78
+
+ID: 92
+Numero di celle visitate: 65
+Numero di cambi di cella: 188
+
+ID: 94
+Numero di celle visitate: 130
+Numero di cambi di cella: 335
+
+ID: 93
+Numero di celle visitate: 57
+Numero di cambi di cella: 145
+
+ID: 95
+Numero di celle visitate: 64
+Numero di cambi di cella: 180
+
+ID: 97
+Numero di celle visitate: 77
+Numero di cambi di cella: 190
+
+ID: 96
+Numero di celle visitate: 105
+Numero di cambi di cella: 330
+
+ID: 98
+Numero di celle visitate: 119
+Numero di cambi di cella: 300
+
+ID: 101
+Numero di celle visitate: 55
+Numero di cambi di cella: 154
+
+ID: 99
+Numero di celle visitate: 81
+Numero di cambi di cella: 225
+
+ID: 100
+Numero di celle visitate: 109
+Numero di cambi di cella: 327
+
+ID: 102
+Numero di celle visitate: 109
+Numero di cambi di cella: 307
+
+ID: 103
+Numero di celle visitate: 103
+Numero di cambi di cella: 316
+
+ID: 104
+Numero di celle visitate: 44
+Numero di cambi di cella: 114
+
+ID: 105
+Numero di celle visitate: 53
+Numero di cambi di cella: 133
+
+ID: 106
+Numero di celle visitate: 101
+Numero di cambi di cella: 278
+
+ID: 107
+Numero di celle visitate: 90
+Numero di cambi di cella: 252
+
+ID: 109
+Numero di celle visitate: 86
+Numero di cambi di cella: 249
+
+ID: 110
+Numero di celle visitate: 103
+Numero di cambi di cella: 314
+
+ID: 111
+Numero di celle visitate: 114
+Numero di cambi di cella: 317
+
+ID: 112
+Numero di celle visitate: 115
+Numero di cambi di cella: 303
+
+ID: 116
+Numero di celle visitate: 95
+Numero di cambi di cella: 273
+
+ID: 114
+Numero di celle visitate: 35
+Numero di cambi di cella: 95
+
+ID: 115
+Numero di celle visitate: 73
+Numero di cambi di cella: 176
+
+ID: 117
+Numero di celle visitate: 96
+Numero di cambi di cella: 262
+
+ID: 119
+Numero di celle visitate: 80
+Numero di cambi di cella: 242
+
+ID: 118
+Numero di celle visitate: 107
+Numero di cambi di cella: 278
+
+ID: 120
+Numero di celle visitate: 73
+Numero di cambi di cella: 188
+
+ID: 121
+Numero di celle visitate: 86
+Numero di cambi di cella: 220
+
+ID: 122
+Numero di celle visitate: 44
+Numero di cambi di cella: 112
+
+ID: 123
+Numero di celle visitate: 17
+Numero di cambi di cella: 40
+
+ID: 124
+Numero di celle visitate: 50
+Numero di cambi di cella: 125
+
+ID: 126
+Numero di celle visitate: 96
+Numero di cambi di cella: 291
+
+ID: 125
+Numero di celle visitate: 69
+Numero di cambi di cella: 222
+
+ID: 127
+Numero di celle visitate: 88
+Numero di cambi di cella: 227
+
+ID: 128
+Numero di celle visitate: 45
+Numero di cambi di cella: 109
+
+ID: 129
+Numero di celle visitate: 62
+Numero di cambi di cella: 175
+
+ID: 132
+Numero di celle visitate: 56
+Numero di cambi di cella: 174
+
+ID: 130
+Numero di celle visitate: 70
+Numero di cambi di cella: 176
+
+ID: 131
+Numero di celle visitate: 37
+Numero di cambi di cella: 97
+
+ID: 133
+Numero di celle visitate: 126
+Numero di cambi di cella: 300
+
+ID: 134
+Numero di celle visitate: 49
+Numero di cambi di cella: 119
+
+ID: 135
+Numero di celle visitate: 120
+Numero di cambi di cella: 282
+
+ID: 136
+Numero di celle visitate: 31
+Numero di cambi di cella: 79
+
+ID: 137
+Numero di celle visitate: 10
+Numero di cambi di cella: 20
+
+ID: 138
+Numero di celle visitate: 101
+Numero di cambi di cella: 296
+
+ID: 139
+Numero di celle visitate: 113
+Numero di cambi di cella: 289
+
+ID: 140
+Numero di celle visitate: 57
 Numero di cambi di cella: 140
 
-ID: 162
-Numero di celle visitate: 269
+ID: 142
+Numero di celle visitate: 74
+Numero di cambi di cella: 218
+
+ID: 141
+Numero di celle visitate: 95
+Numero di cambi di cella: 282
+
+ID: 144
+Numero di celle visitate: 104
+Numero di cambi di cella: 283
+
+ID: 143
+Numero di celle visitate: 42
+Numero di cambi di cella: 162
+
+ID: 145
+Numero di celle visitate: 79
 Numero di cambi di cella: 268
 
+ID: 146
+Numero di celle visitate: 88
+Numero di cambi di cella: 220
+
+ID: 147
+Numero di celle visitate: 78
+Numero di cambi di cella: 253
+
+ID: 148
+Numero di celle visitate: 99
+Numero di cambi di cella: 264
+
+ID: 149
+Numero di celle visitate: 80
+Numero di cambi di cella: 232
+
+ID: 150
+Numero di celle visitate: 57
+Numero di cambi di cella: 155
+
+ID: 152
+Numero di celle visitate: 86
+Numero di cambi di cella: 266
+
+ID: 151
+Numero di celle visitate: 83
+Numero di cambi di cella: 231
+
+ID: 153
+Numero di celle visitate: 97
+Numero di cambi di cella: 266
+
+ID: 154
+Numero di celle visitate: 106
+Numero di cambi di cella: 271
+
+ID: 155
+Numero di celle visitate: 74
+Numero di cambi di cella: 188
+
+ID: 156
+Numero di celle visitate: 102
+Numero di cambi di cella: 257
+
+ID: 157
+Numero di celle visitate: 77
+Numero di cambi di cella: 268
+
+ID: 158
+Numero di celle visitate: 93
+Numero di cambi di cella: 262
+
+ID: 159
+Numero di celle visitate: 84
+Numero di cambi di cella: 252
+
+ID: 160
+Numero di celle visitate: 95
+Numero di cambi di cella: 270
+
+ID: 161
+Numero di celle visitate: 82
+Numero di cambi di cella: 262
+
+ID: 163
+Numero di celle visitate: 51
+Numero di cambi di cella: 127
+
+ID: 162
+Numero di celle visitate: 101
+Numero di cambi di cella: 254
+
 ID: 165
-Numero di celle visitate: 179
-Numero di cambi di cella: 178
+Numero di celle visitate: 63
+Numero di cambi di cella: 162
 
 ID: 164
-Numero di celle visitate: 268
-Numero di cambi di cella: 267
+Numero di celle visitate: 82
+Numero di cambi di cella: 252
 
 ID: 166
-Numero di celle visitate: 93
-Numero di cambi di cella: 92
+Numero di celle visitate: 32
+Numero di cambi di cella: 81
 
 ID: 167
-Numero di celle visitate: 41
+Numero di celle visitate: 16
 Numero di cambi di cella: 40
 
 ID: 169
-Numero di celle visitate: 256
-Numero di cambi di cella: 255
-
-ID: 168
-Numero di celle visitate: 146
-Numero di cambi di cella: 145
-
-ID: 170
-Numero di celle visitate: 221
-Numero di cambi di cella: 220
-
-ID: 172
-Numero di celle visitate: 254
-Numero di cambi di cella: 253
-
-ID: 171
-Numero di celle visitate: 248
-Numero di cambi di cella: 247
-
-ID: 173
-Numero di celle visitate: 253
-Numero di cambi di cella: 252
-
-ID: 175
-Numero di celle visitate: 190
-Numero di cambi di cella: 189
-
-ID: 176
-Numero di celle visitate: 252
-Numero di cambi di cella: 251
-
-ID: 174
-Numero di celle visitate: 252
-Numero di cambi di cella: 251
-
-ID: 177
-Numero di celle visitate: 201
-Numero di cambi di cella: 200
-
-ID: 178
-Numero di celle visitate: 248
-Numero di cambi di cella: 247
-
-ID: 179
-Numero di celle visitate: 186
-Numero di cambi di cella: 185
-
-ID: 180
-Numero di celle visitate: 248
-Numero di cambi di cella: 247
-
-ID: 181
-Numero di celle visitate: 247
-Numero di cambi di cella: 246
-
-ID: 182
-Numero di celle visitate: 165
-Numero di cambi di cella: 164
-
-ID: 183
-Numero di celle visitate: 142
-Numero di cambi di cella: 141
-
-ID: 184
-Numero di celle visitate: 197
-Numero di cambi di cella: 196
-
-ID: 185
-Numero di celle visitate: 243
+Numero di celle visitate: 89
 Numero di cambi di cella: 242
 
+ID: 168
+Numero di celle visitate: 45
+Numero di cambi di cella: 139
+
+ID: 170
+Numero di celle visitate: 66
+Numero di cambi di cella: 195
+
+ID: 172
+Numero di celle visitate: 95
+Numero di cambi di cella: 244
+
+ID: 171
+Numero di celle visitate: 73
+Numero di cambi di cella: 233
+
+ID: 173
+Numero di celle visitate: 70
+Numero di cambi di cella: 236
+
+ID: 175
+Numero di celle visitate: 63
+Numero di cambi di cella: 183
+
+ID: 176
+Numero di celle visitate: 78
+Numero di cambi di cella: 224
+
+ID: 174
+Numero di celle visitate: 82
+Numero di cambi di cella: 240
+
+ID: 177
+Numero di celle visitate: 73
+Numero di cambi di cella: 191
+
+ID: 178
+Numero di celle visitate: 85
+Numero di cambi di cella: 224
+
+ID: 179
+Numero di celle visitate: 71
+Numero di cambi di cella: 176
+
+ID: 180
+Numero di celle visitate: 84
+Numero di cambi di cella: 233
+
+ID: 181
+Numero di celle visitate: 82
+Numero di cambi di cella: 241
+
+ID: 182
+Numero di celle visitate: 56
+Numero di cambi di cella: 152
+
+ID: 183
+Numero di celle visitate: 36
+Numero di cambi di cella: 124
+
+ID: 184
+Numero di celle visitate: 59
+Numero di cambi di cella: 182
+
+ID: 185
+Numero di celle visitate: 82
+Numero di cambi di cella: 234
+
 ID: 186
-Numero di celle visitate: 217
-Numero di cambi di cella: 216
-
-ID: 187
-Numero di celle visitate: 238
-Numero di cambi di cella: 237
-
-ID: 189
-Numero di celle visitate: 238
-Numero di cambi di cella: 237
-
-ID: 188
-Numero di celle visitate: 238
-Numero di cambi di cella: 237
-
-ID: 190
-Numero di celle visitate: 229
-Numero di cambi di cella: 228
-
-ID: 191
-Numero di celle visitate: 226
-Numero di cambi di cella: 225
-
-ID: 192
-Numero di celle visitate: 226
-Numero di cambi di cella: 225
-
-ID: 193
-Numero di celle visitate: 167
-Numero di cambi di cella: 166
-
-ID: 194
-Numero di celle visitate: 225
-Numero di cambi di cella: 224
-
-ID: 195
-Numero di celle visitate: 225
-Numero di cambi di cella: 224
-
-ID: 196
-Numero di celle visitate: 99
-Numero di cambi di cella: 98
-
-ID: 197
-Numero di celle visitate: 223
-Numero di cambi di cella: 222
-
-ID: 198
-Numero di celle visitate: 222
-Numero di cambi di cella: 221
-
-ID: 199
-Numero di celle visitate: 221
-Numero di cambi di cella: 220
-
-ID: 200
-Numero di celle visitate: 220
-Numero di cambi di cella: 219
-
-ID: 201
-Numero di celle visitate: 195
-Numero di cambi di cella: 194
-
-ID: 202
-Numero di celle visitate: 215
-Numero di cambi di cella: 214
-
-ID: 203
-Numero di celle visitate: 214
-Numero di cambi di cella: 213
-
-ID: 204
-Numero di celle visitate: 212
-Numero di cambi di cella: 211
-
-ID: 205
-Numero di celle visitate: 212
-Numero di cambi di cella: 211
-
-ID: 206
-Numero di celle visitate: 211
+Numero di celle visitate: 68
 Numero di cambi di cella: 210
 
-ID: 207
-Numero di celle visitate: 210
-Numero di cambi di cella: 209
+ID: 187
+Numero di celle visitate: 82
+Numero di cambi di cella: 232
 
-ID: 208
-Numero di celle visitate: 209
-Numero di cambi di cella: 208
+ID: 189
+Numero di celle visitate: 78
+Numero di cambi di cella: 226
 
-ID: 209
-Numero di celle visitate: 52
-Numero di cambi di cella: 51
+ID: 188
+Numero di celle visitate: 84
+Numero di cambi di cella: 223
 
-ID: 210
-Numero di celle visitate: 208
+ID: 190
+Numero di celle visitate: 74
+Numero di cambi di cella: 211
+
+ID: 191
+Numero di celle visitate: 85
+Numero di cambi di cella: 198
+
+ID: 192
+Numero di celle visitate: 82
+Numero di cambi di cella: 212
+
+ID: 193
+Numero di celle visitate: 54
+Numero di cambi di cella: 148
+
+ID: 194
+Numero di celle visitate: 60
+Numero di cambi di cella: 202
+
+ID: 195
+Numero di celle visitate: 79
+Numero di cambi di cella: 217
+
+ID: 196
+Numero di celle visitate: 30
+Numero di cambi di cella: 70
+
+ID: 197
+Numero di celle visitate: 75
+Numero di cambi di cella: 205
+
+ID: 198
+Numero di celle visitate: 66
 Numero di cambi di cella: 207
 
-ID: 211
-Numero di celle visitate: 207
-Numero di cambi di cella: 206
+ID: 199
+Numero di celle visitate: 70
+Numero di cambi di cella: 202
 
-ID: 212
-Numero di celle visitate: 207
-Numero di cambi di cella: 206
+ID: 200
+Numero di celle visitate: 63
+Numero di cambi di cella: 205
 
-ID: 214
-Numero di celle visitate: 161
-Numero di cambi di cella: 160
+ID: 201
+Numero di celle visitate: 69
+Numero di cambi di cella: 182
 
-ID: 213
-Numero di celle visitate: 205
+ID: 202
+Numero di celle visitate: 67
+Numero di cambi di cella: 205
+
+ID: 203
+Numero di celle visitate: 82
+Numero di cambi di cella: 194
+
+ID: 204
+Numero di celle visitate: 72
+Numero di cambi di cella: 195
+
+ID: 205
+Numero di celle visitate: 69
+Numero di cambi di cella: 195
+
+ID: 206
+Numero di celle visitate: 74
+Numero di cambi di cella: 198
+
+ID: 207
+Numero di celle visitate: 73
+Numero di cambi di cella: 201
+
+ID: 208
+Numero di celle visitate: 76
 Numero di cambi di cella: 204
 
+ID: 209
+Numero di celle visitate: 20
+Numero di cambi di cella: 40
+
+ID: 210
+Numero di celle visitate: 68
+Numero di cambi di cella: 201
+
+ID: 211
+Numero di celle visitate: 69
+Numero di cambi di cella: 195
+
+ID: 212
+Numero di celle visitate: 68
+Numero di cambi di cella: 199
+
+ID: 214
+Numero di celle visitate: 52
+Numero di cambi di cella: 158
+
+ID: 213
+Numero di celle visitate: 61
+Numero di cambi di cella: 175
+
 ID: 216
-Numero di celle visitate: 204
-Numero di cambi di cella: 203
+Numero di celle visitate: 67
+Numero di cambi di cella: 191
 
 ID: 215
-Numero di celle visitate: 204
-Numero di cambi di cella: 203
+Numero di celle visitate: 67
+Numero di cambi di cella: 194
 
 ID: 217
-Numero di celle visitate: 202
-Numero di cambi di cella: 201
+Numero di celle visitate: 71
+Numero di cambi di cella: 189
 
 ID: 219
-Numero di celle visitate: 202
-Numero di cambi di cella: 201
+Numero di celle visitate: 68
+Numero di cambi di cella: 193
 
 ID: 218
-Numero di celle visitate: 202
-Numero di cambi di cella: 201
+Numero di celle visitate: 58
+Numero di cambi di cella: 189
 
 ID: 220
-Numero di celle visitate: 130
-Numero di cambi di cella: 129
+Numero di celle visitate: 44
+Numero di cambi di cella: 125
 
 ID: 221
-Numero di celle visitate: 201
-Numero di cambi di cella: 200
+Numero di celle visitate: 58
+Numero di cambi di cella: 195
 
 ID: 222
-Numero di celle visitate: 115
+Numero di celle visitate: 42
 Numero di cambi di cella: 114
 
 ID: 223
-Numero di celle visitate: 198
-Numero di cambi di cella: 197
+Numero di celle visitate: 71
+Numero di cambi di cella: 185
 
 ID: 224
-Numero di celle visitate: 53
-Numero di cambi di cella: 52
+Numero di celle visitate: 18
+Numero di cambi di cella: 32
 
 ID: 225
-Numero di celle visitate: 194
-Numero di cambi di cella: 193
+Numero di celle visitate: 82
+Numero di cambi di cella: 187
 
 ID: 226
-Numero di celle visitate: 191
-Numero di cambi di cella: 190
+Numero di celle visitate: 66
+Numero di cambi di cella: 176
 
 ID: 227
-Numero di celle visitate: 188
-Numero di cambi di cella: 187
+Numero di celle visitate: 63
+Numero di cambi di cella: 177
 
 ID: 228
-Numero di celle visitate: 190
-Numero di cambi di cella: 189
+Numero di celle visitate: 63
+Numero di cambi di cella: 178
 
 ID: 229
-Numero di celle visitate: 188
-Numero di cambi di cella: 187
+Numero di celle visitate: 72
+Numero di cambi di cella: 170
 
 ID: 230
-Numero di celle visitate: 183
-Numero di cambi di cella: 182
+Numero di celle visitate: 64
+Numero di cambi di cella: 167
 
 ID: 231
-Numero di celle visitate: 182
-Numero di cambi di cella: 181
+Numero di celle visitate: 59
+Numero di cambi di cella: 171
 
 ID: 232
-Numero di celle visitate: 128
-Numero di cambi di cella: 127
-
-ID: 233
-Numero di celle visitate: 176
-Numero di cambi di cella: 175
-
-ID: 234
-Numero di celle visitate: 153
-Numero di cambi di cella: 152
-
-ID: 235
-Numero di celle visitate: 84
-Numero di cambi di cella: 83
-
-ID: 236
-Numero di celle visitate: 174
-Numero di cambi di cella: 173
-
-ID: 237
-Numero di celle visitate: 112
-Numero di cambi di cella: 111
-
-ID: 239
-Numero di celle visitate: 173
-Numero di cambi di cella: 172
-
-ID: 238
-Numero di celle visitate: 173
-Numero di cambi di cella: 172
-
-ID: 240
-Numero di celle visitate: 70
-Numero di cambi di cella: 69
-
-ID: 241
-Numero di celle visitate: 167
-Numero di cambi di cella: 166
-
-ID: 243
-Numero di celle visitate: 166
-Numero di cambi di cella: 165
-
-ID: 244
-Numero di celle visitate: 167
-Numero di cambi di cella: 166
-
-ID: 242
-Numero di celle visitate: 123
-Numero di cambi di cella: 122
-
-ID: 245
-Numero di celle visitate: 164
-Numero di cambi di cella: 163
-
-ID: 246
-Numero di celle visitate: 160
-Numero di cambi di cella: 159
-
-ID: 247
-Numero di celle visitate: 157
-Numero di cambi di cella: 156
-
-ID: 249
-Numero di celle visitate: 155
-Numero di cambi di cella: 154
-
-ID: 248
-Numero di celle visitate: 30
-Numero di cambi di cella: 29
-
-ID: 250
-Numero di celle visitate: 153
-Numero di cambi di cella: 152
-
-ID: 251
-Numero di celle visitate: 79
-Numero di cambi di cella: 78
-
-ID: 252
-Numero di celle visitate: 152
-Numero di cambi di cella: 151
-
-ID: 253
-Numero di celle visitate: 151
-Numero di cambi di cella: 150
-
-ID: 254
-Numero di celle visitate: 143
-Numero di cambi di cella: 142
-
-ID: 255
-Numero di celle visitate: 142
-Numero di cambi di cella: 141
-
-ID: 256
-Numero di celle visitate: 45
-Numero di cambi di cella: 44
-
-ID: 257
-Numero di celle visitate: 139
-Numero di cambi di cella: 138
-
-ID: 259
-Numero di celle visitate: 132
-Numero di cambi di cella: 131
-
-ID: 261
-Numero di celle visitate: 131
-Numero di cambi di cella: 130
-
-ID: 260
-Numero di celle visitate: 131
-Numero di cambi di cella: 130
-
-ID: 262
-Numero di celle visitate: 130
-Numero di cambi di cella: 129
-
-ID: 263
-Numero di celle visitate: 128
-Numero di cambi di cella: 127
-
-ID: 264
-Numero di celle visitate: 125
-Numero di cambi di cella: 124
-
-ID: 265
-Numero di celle visitate: 125
-Numero di cambi di cella: 124
-
-ID: 268
-Numero di celle visitate: 122
-Numero di cambi di cella: 121
-
-ID: 269
-Numero di celle visitate: 53
-Numero di cambi di cella: 52
-
-ID: 267
-Numero di celle visitate: 121
-Numero di cambi di cella: 120
-
-ID: 266
-Numero di celle visitate: 122
-Numero di cambi di cella: 121
-
-ID: 270
-Numero di celle visitate: 121
-Numero di cambi di cella: 120
-
-ID: 271
-Numero di celle visitate: 120
+Numero di celle visitate: 50
 Numero di cambi di cella: 119
 
-ID: 272
-Numero di celle visitate: 118
-Numero di cambi di cella: 117
+ID: 233
+Numero di celle visitate: 52
+Numero di cambi di cella: 159
 
-ID: 273
-Numero di celle visitate: 119
-Numero di cambi di cella: 118
+ID: 234
+Numero di celle visitate: 43
+Numero di cambi di cella: 135
 
-ID: 274
-Numero di celle visitate: 118
-Numero di cambi di cella: 117
+ID: 235
+Numero di celle visitate: 35
+Numero di cambi di cella: 71
 
-ID: 275
-Numero di celle visitate: 118
-Numero di cambi di cella: 117
+ID: 236
+Numero di celle visitate: 59
+Numero di cambi di cella: 161
 
-ID: 276
-Numero di celle visitate: 117
-Numero di cambi di cella: 116
-
-ID: 277
-Numero di celle visitate: 117
-Numero di cambi di cella: 116
-
-ID: 278
-Numero di celle visitate: 113
-Numero di cambi di cella: 112
-
-ID: 279
-Numero di celle visitate: 112
-Numero di cambi di cella: 111
-
-ID: 280
-Numero di celle visitate: 108
-Numero di cambi di cella: 107
-
-ID: 281
-Numero di celle visitate: 103
-Numero di cambi di cella: 102
-
-ID: 282
-Numero di celle visitate: 102
-Numero di cambi di cella: 101
-
-ID: 283
-Numero di celle visitate: 102
-Numero di cambi di cella: 101
-
-ID: 284
-Numero di celle visitate: 97
-Numero di cambi di cella: 96
-
-ID: 285
-Numero di celle visitate: 97
-Numero di cambi di cella: 96
-
-ID: 286
-Numero di celle visitate: 96
+ID: 237
+Numero di celle visitate: 38
 Numero di cambi di cella: 95
 
+ID: 239
+Numero di celle visitate: 56
+Numero di cambi di cella: 164
+
+ID: 238
+Numero di celle visitate: 56
+Numero di cambi di cella: 164
+
+ID: 240
+Numero di celle visitate: 20
+Numero di cambi di cella: 55
+
+ID: 241
+Numero di celle visitate: 58
+Numero di cambi di cella: 157
+
+ID: 243
+Numero di celle visitate: 59
+Numero di cambi di cella: 158
+
+ID: 244
+Numero di celle visitate: 55
+Numero di cambi di cella: 154
+
+ID: 242
+Numero di celle visitate: 38
+Numero di cambi di cella: 105
+
+ID: 245
+Numero di celle visitate: 52
+Numero di cambi di cella: 148
+
+ID: 246
+Numero di celle visitate: 51
+Numero di cambi di cella: 145
+
+ID: 247
+Numero di celle visitate: 62
+Numero di cambi di cella: 153
+
+ID: 249
+Numero di celle visitate: 52
+Numero di cambi di cella: 140
+
+ID: 248
+Numero di celle visitate: 11
+Numero di cambi di cella: 12
+
+ID: 250
+Numero di celle visitate: 42
+Numero di cambi di cella: 136
+
+ID: 251
+Numero di celle visitate: 25
+Numero di cambi di cella: 75
+
+ID: 252
+Numero di celle visitate: 51
+Numero di cambi di cella: 136
+
+ID: 253
+Numero di celle visitate: 45
+Numero di cambi di cella: 141
+
+ID: 254
+Numero di celle visitate: 38
+Numero di cambi di cella: 122
+
+ID: 255
+Numero di celle visitate: 43
+Numero di cambi di cella: 117
+
+ID: 256
+Numero di celle visitate: 20
+Numero di cambi di cella: 37
+
+ID: 257
+Numero di celle visitate: 53
+Numero di cambi di cella: 130
+
+ID: 259
+Numero di celle visitate: 38
+Numero di cambi di cella: 123
+
+ID: 261
+Numero di celle visitate: 45
+Numero di cambi di cella: 120
+
+ID: 260
+Numero di celle visitate: 46
+Numero di cambi di cella: 119
+
+ID: 262
+Numero di celle visitate: 47
+Numero di cambi di cella: 118
+
+ID: 263
+Numero di celle visitate: 55
+Numero di cambi di cella: 124
+
+ID: 264
+Numero di celle visitate: 38
+Numero di cambi di cella: 120
+
+ID: 265
+Numero di celle visitate: 47
+Numero di cambi di cella: 122
+
+ID: 268
+Numero di celle visitate: 43
+Numero di cambi di cella: 109
+
+ID: 269
+Numero di celle visitate: 20
+Numero di cambi di cella: 49
+
+ID: 267
+Numero di celle visitate: 36
+Numero di cambi di cella: 109
+
+ID: 266
+Numero di celle visitate: 37
+Numero di cambi di cella: 116
+
+ID: 270
+Numero di celle visitate: 40
+Numero di cambi di cella: 114
+
+ID: 271
+Numero di celle visitate: 44
+Numero di cambi di cella: 102
+
+ID: 272
+Numero di celle visitate: 43
+Numero di cambi di cella: 116
+
+ID: 273
+Numero di celle visitate: 37
+Numero di cambi di cella: 114
+
+ID: 274
+Numero di celle visitate: 44
+Numero di cambi di cella: 109
+
+ID: 275
+Numero di celle visitate: 32
+Numero di cambi di cella: 107
+
+ID: 276
+Numero di celle visitate: 48
+Numero di cambi di cella: 102
+
+ID: 277
+Numero di celle visitate: 35
+Numero di cambi di cella: 100
+
+ID: 278
+Numero di celle visitate: 38
+Numero di cambi di cella: 97
+
+ID: 279
+Numero di celle visitate: 39
+Numero di cambi di cella: 106
+
+ID: 280
+Numero di celle visitate: 41
+Numero di cambi di cella: 98
+
+ID: 281
+Numero di celle visitate: 33
+Numero di cambi di cella: 86
+
+ID: 282
+Numero di celle visitate: 36
+Numero di cambi di cella: 95
+
+ID: 283
+Numero di celle visitate: 26
+Numero di cambi di cella: 82
+
+ID: 284
+Numero di celle visitate: 32
+Numero di cambi di cella: 81
+
+ID: 285
+Numero di celle visitate: 28
+Numero di cambi di cella: 79
+
+ID: 286
+Numero di celle visitate: 29
+Numero di cambi di cella: 83
+
 ID: 287
-Numero di celle visitate: 95
-Numero di cambi di cella: 94
+Numero di celle visitate: 36
+Numero di cambi di cella: 80
 
 ID: 288
-Numero di celle visitate: 90
-Numero di cambi di cella: 89
+Numero di celle visitate: 32
+Numero di cambi di cella: 75
 
 ID: 289
-Numero di celle visitate: 93
+Numero di celle visitate: 27
 Numero di cambi di cella: 92
 
 ID: 290
-Numero di celle visitate: 88
-Numero di cambi di cella: 87
-
-ID: 291
-Numero di celle visitate: 86
-Numero di cambi di cella: 85
-
-ID: 292
-Numero di celle visitate: 85
-Numero di cambi di cella: 84
-
-ID: 293
-Numero di celle visitate: 84
-Numero di cambi di cella: 83
-
-ID: 294
-Numero di celle visitate: 83
-Numero di cambi di cella: 82
-
-ID: 295
-Numero di celle visitate: 83
-Numero di cambi di cella: 82
-
-ID: 298
-Numero di celle visitate: 79
-Numero di cambi di cella: 78
-
-ID: 297
-Numero di celle visitate: 79
-Numero di cambi di cella: 78
-
-ID: 296
-Numero di celle visitate: 79
-Numero di cambi di cella: 78
-
-ID: 299
-Numero di celle visitate: 76
-Numero di cambi di cella: 75
-
-ID: 300
-Numero di celle visitate: 8
-Numero di cambi di cella: 7
-
-ID: 301
-Numero di celle visitate: 73
-Numero di cambi di cella: 72
-
-ID: 302
-Numero di celle visitate: 70
-Numero di cambi di cella: 69
-
-ID: 303
-Numero di celle visitate: 68
-Numero di cambi di cella: 67
-
-ID: 304
-Numero di celle visitate: 63
+Numero di celle visitate: 27
 Numero di cambi di cella: 62
 
-ID: 305
-Numero di celle visitate: 62
-Numero di cambi di cella: 61
+ID: 291
+Numero di celle visitate: 29
+Numero di cambi di cella: 84
 
-ID: 306
-Numero di celle visitate: 61
+ID: 292
+Numero di celle visitate: 35
+Numero di cambi di cella: 79
+
+ID: 293
+Numero di celle visitate: 31
+Numero di cambi di cella: 81
+
+ID: 294
+Numero di celle visitate: 27
+Numero di cambi di cella: 79
+
+ID: 295
+Numero di celle visitate: 35
+Numero di cambi di cella: 74
+
+ID: 298
+Numero di celle visitate: 27
+Numero di cambi di cella: 70
+
+ID: 297
+Numero di celle visitate: 30
+Numero di cambi di cella: 69
+
+ID: 296
+Numero di celle visitate: 26
+Numero di cambi di cella: 70
+
+ID: 299
+Numero di celle visitate: 28
+Numero di cambi di cella: 69
+
+ID: 300
+Numero di celle visitate: 4
+Numero di cambi di cella: 1
+
+ID: 301
+Numero di celle visitate: 23
+Numero di cambi di cella: 70
+
+ID: 302
+Numero di celle visitate: 26
 Numero di cambi di cella: 60
 
+ID: 303
+Numero di celle visitate: 22
+Numero di cambi di cella: 53
+
+ID: 304
+Numero di celle visitate: 24
+Numero di cambi di cella: 54
+
+ID: 305
+Numero di celle visitate: 23
+Numero di cambi di cella: 47
+
+ID: 306
+Numero di celle visitate: 20
+Numero di cambi di cella: 55
+
 ID: 307
-Numero di celle visitate: 58
-Numero di cambi di cella: 57
-
-ID: 308
-Numero di celle visitate: 57
-Numero di cambi di cella: 56
-
-ID: 310
-Numero di celle visitate: 56
-Numero di cambi di cella: 55
-
-ID: 311
-Numero di celle visitate: 56
-Numero di cambi di cella: 55
-
-ID: 309
-Numero di celle visitate: 56
-Numero di cambi di cella: 55
-
-ID: 313
-Numero di celle visitate: 54
-Numero di cambi di cella: 53
-
-ID: 312
-Numero di celle visitate: 54
-Numero di cambi di cella: 53
-
-ID: 314
-Numero di celle visitate: 46
-Numero di cambi di cella: 45
-
-ID: 315
-Numero di celle visitate: 46
-Numero di cambi di cella: 45
-
-ID: 316
-Numero di celle visitate: 46
-Numero di cambi di cella: 45
-
-ID: 317
-Numero di celle visitate: 45
+Numero di celle visitate: 21
 Numero di cambi di cella: 44
 
+ID: 308
+Numero di celle visitate: 19
+Numero di cambi di cella: 52
+
+ID: 310
+Numero di celle visitate: 23
+Numero di cambi di cella: 41
+
+ID: 311
+Numero di celle visitate: 21
+Numero di cambi di cella: 45
+
+ID: 309
+Numero di celle visitate: 19
+Numero di cambi di cella: 47
+
+ID: 313
+Numero di celle visitate: 20
+Numero di cambi di cella: 48
+
+ID: 312
+Numero di celle visitate: 22
+Numero di cambi di cella: 48
+
+ID: 314
+Numero di celle visitate: 17
+Numero di cambi di cella: 39
+
+ID: 315
+Numero di celle visitate: 22
+Numero di cambi di cella: 30
+
+ID: 316
+Numero di celle visitate: 16
+Numero di cambi di cella: 39
+
+ID: 317
+Numero di celle visitate: 17
+Numero di cambi di cella: 31
+
 ID: 319
-Numero di celle visitate: 43
-Numero di cambi di cella: 42
+Numero di celle visitate: 17
+Numero di cambi di cella: 36
 
 ID: 318
-Numero di celle visitate: 43
+Numero di celle visitate: 18
 Numero di cambi di cella: 42
 
 ID: 320
-Numero di celle visitate: 42
-Numero di cambi di cella: 41
+Numero di celle visitate: 13
+Numero di cambi di cella: 34
 
 ID: 321
-Numero di celle visitate: 40
-Numero di cambi di cella: 39
+Numero di celle visitate: 12
+Numero di cambi di cella: 33
 
 ID: 322
-Numero di celle visitate: 36
-Numero di cambi di cella: 35
+Numero di celle visitate: 9
+Numero di cambi di cella: 26
 
 ID: 323
-Numero di celle visitate: 32
-Numero di cambi di cella: 31
+Numero di celle visitate: 11
+Numero di cambi di cella: 26
 
 ID: 324
-Numero di celle visitate: 32
-Numero di cambi di cella: 31
-
-ID: 326
-Numero di celle visitate: 31
-Numero di cambi di cella: 30
-
-ID: 325
-Numero di celle visitate: 32
-Numero di cambi di cella: 31
-
-ID: 327
-Numero di celle visitate: 28
-Numero di cambi di cella: 27
-
-ID: 328
-Numero di celle visitate: 26
+Numero di celle visitate: 9
 Numero di cambi di cella: 25
 
-ID: 329
-Numero di celle visitate: 23
-Numero di cambi di cella: 22
+ID: 326
+Numero di celle visitate: 9
+Numero di cambi di cella: 18
 
-ID: 330
-Numero di celle visitate: 23
-Numero di cambi di cella: 22
+ID: 325
+Numero di celle visitate: 9
+Numero di cambi di cella: 24
 
-ID: 331
-Numero di celle visitate: 23
-Numero di cambi di cella: 22
+ID: 327
+Numero di celle visitate: 9
+Numero di cambi di cella: 23
 
-ID: 332
-Numero di celle visitate: 21
+ID: 328
+Numero di celle visitate: 8
 Numero di cambi di cella: 20
 
-ID: 333
-Numero di celle visitate: 20
+ID: 329
+Numero di celle visitate: 9
 Numero di cambi di cella: 19
 
-ID: 334
-Numero di celle visitate: 16
+ID: 330
+Numero di celle visitate: 8
 Numero di cambi di cella: 15
 
+ID: 331
+Numero di celle visitate: 8
+Numero di cambi di cella: 21
+
+ID: 332
+Numero di celle visitate: 9
+Numero di cambi di cella: 16
+
+ID: 333
+Numero di celle visitate: 7
+Numero di cambi di cella: 17
+
+ID: 334
+Numero di celle visitate: 5
+Numero di cambi di cella: 6
+
 ID: 335
-Numero di celle visitate: 14
-Numero di cambi di cella: 13
+Numero di celle visitate: 6
+Numero di cambi di cella: 12
 
 ID: 336
-Numero di celle visitate: 13
-Numero di cambi di cella: 12
+Numero di celle visitate: 6
+Numero di cambi di cella: 2
 
 ID: 337
-Numero di celle visitate: 13
-Numero di cambi di cella: 12
+Numero di celle visitate: 5
+Numero di cambi di cella: 5
 
 ID: 338
-Numero di celle visitate: 12
-Numero di cambi di cella: 11
+Numero di celle visitate: 4
+Numero di cambi di cella: 9
 
 ID: 339
-Numero di celle visitate: 10
+Numero di celle visitate: 4
 Numero di cambi di cella: 9
 
 ID: 340
-Numero di celle visitate: 10
-Numero di cambi di cella: 9
-
-ID: 341
-Numero di celle visitate: 9
+Numero di celle visitate: 4
 Numero di cambi di cella: 8
 
+ID: 341
+Numero di celle visitate: 4
+Numero di cambi di cella: 4
+
 ID: 342
-Numero di celle visitate: 7
-Numero di cambi di cella: 6
+Numero di celle visitate: 3
+Numero di cambi di cella: 2
 
 ID: 343
-Numero di celle visitate: 6
-Numero di cambi di cella: 5
+Numero di celle visitate: 2
+Numero di cambi di cella: 2
 
 ID: 344
-Numero di celle visitate: 5
-Numero di cambi di cella: 4
+Numero di celle visitate: 1
+Numero di cambi di cella: 0
 
 ID: 345
 Numero di celle visitate: 2
