@@ -1,7 +1,5 @@
 import xml.etree.ElementTree as ET
 import argparse
-# Funzione per leggere il file XML e creare la lista di persone/veicoli
-import xml.etree.ElementTree as ET
 
 
 def leggi_dati_xml(file_xml,dimensione_cella):
