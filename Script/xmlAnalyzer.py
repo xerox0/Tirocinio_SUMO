@@ -50,20 +50,7 @@ parser.add_argument('file', type=str, help='nome del file XML contenente le coor
 args = parser.parse_args()
 dati = leggi_dati_xml(args.file,dimensione_cella)
 
-# # Calcola le statistiche persona/veicolo
-# fx = open("Dati.txt", "w")
-# for id, info in dati.items():
-#     celle_visit = info['celle_visit']
-#     cambi_cella = info['num_cambi_cella']
-#
-#     # Stampa le informazioni sulla persona/veicolo corrente
-#
-#     print(f"ID: {id}",file=fx)
-#     print(f"Numero di celle visitate: {len(celle_visit)}",file=fx)
-#     print(f"Numero di cambi di cella: {cambi_cella}",file=fx)
-#
-#     print(file=fx)
-# fx.close()
+
 
 results = pd.DataFrame(dati.items(), columns=['celle_visit', 'num_cambi_cella'])
 results = pd.concat([results.drop(['num_cambi_cella'], axis=1), results['num_cambi_cella'].apply(pd.Series)], axis=1)
