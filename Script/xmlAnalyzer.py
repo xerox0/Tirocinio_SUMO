@@ -1,6 +1,9 @@
+import math
 import xml.etree.ElementTree as ET
 import argparse
+import pandas as pd
 
+dimensione_cella = 10.0
 
 def leggi_dati_xml(file_xml,dimensione_cella):
     tree = ET.parse(file_xml)
@@ -15,9 +18,11 @@ def leggi_dati_xml(file_xml,dimensione_cella):
         y = float(person.attrib['y'])
 
         # determina la cella corrente in base alle coordinate x e y
-        cella_x = int(x / dimensione_cella)
-        cella_y = int(y / dimensione_cella)
-        cella_corrente = (cella_x, cella_y)
+        cella_x = dimensione_cella* math.floor(x / dimensione_cella)
+        cella_y = dimensione_cella* math.floor(y / dimensione_cella)
+        cella_x2 = cella_x+dimensione_cella
+        cella_y2 = cella_y+dimensione_cella
+        cella_corrente = (cella_x, cella_y,cella_x2,cella_y2)
 
         if id_person not in celle_visit_person:
             celle_visit_person[id_person] = {
@@ -37,7 +42,7 @@ def leggi_dati_xml(file_xml,dimensione_cella):
     return celle_visit_person
 
 # Dimensione di ciascuna cella in metri
-dimensione_cella = 5.0
+
 
 # Leggi le informazioni delle persone/veicoli dal file XML
 parser = argparse.ArgumentParser()
@@ -45,17 +50,21 @@ parser.add_argument('file', type=str, help='nome del file XML contenente le coor
 args = parser.parse_args()
 dati = leggi_dati_xml(args.file,dimensione_cella)
 
-# Calcola le statistiche persona/veicolo
-fx = open("Dati.txt", "w")
-for id, info in dati.items():
-    celle_visit = info['celle_visit']
-    cambi_cella = info['num_cambi_cella']
+# # Calcola le statistiche persona/veicolo
+# fx = open("Dati.txt", "w")
+# for id, info in dati.items():
+#     celle_visit = info['celle_visit']
+#     cambi_cella = info['num_cambi_cella']
+#
+#     # Stampa le informazioni sulla persona/veicolo corrente
+#
+#     print(f"ID: {id}",file=fx)
+#     print(f"Numero di celle visitate: {len(celle_visit)}",file=fx)
+#     print(f"Numero di cambi di cella: {cambi_cella}",file=fx)
+#
+#     print(file=fx)
+# fx.close()
 
-    # Stampa le informazioni sulla persona/veicolo corrente
-
-    print(f"ID: {id}",file=fx)
-    print(f"Numero di celle visitate: {len(celle_visit)}",file=fx)
-    print(f"Numero di cambi di cella: {cambi_cella}",file=fx)
-
-    print(file=fx)
-fx.close()
+results = pd.DataFrame(dati.items(), columns=['celle_visit', 'num_cambi_cella'])
+results = pd.concat([results.drop(['num_cambi_cella'], axis=1), results['num_cambi_cella'].apply(pd.Series)], axis=1)
+results.to_csv('cambi_cella_pedoni.csv', index=False)
