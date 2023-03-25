@@ -28,6 +28,8 @@ args = parser.parse_args()
 tree = ET.parse(args.file)
 root = tree.getroot()
 
+#FUNZIONE CHE INDIVIDUA LA CELLA CORRISPONDENTE ALLE COORDINATE DI UNA PERSONA
+#
 for person in root.findall('.//person'):
     person_id = person.get('id')
     x, y = float(person.get('x')), float(person.get('y'))
@@ -36,10 +38,27 @@ for person in root.findall('.//person'):
     cell_x2 = cell_x1 + GRID_SIZE
     cell_y2 = cell_y1 + GRID_SIZE
     cell = (cell_x1, cell_y1, cell_x2, cell_y2)
+
+   #Può capitare che le coordinate di una persona cadano su due celle quindi non potendo perdere il dato
+   # E non potendo allargare ogni volta la dimensione delle celle bisogna arrotondare alcune posizioni
+   # In questo caso si aggiunge il dato alla cella più vicina
+
+
+    if cell not in grid:
+        cella_vicina = None
+        #float('inf') serve a inizializzare la variabile nearest_dist al valore infinito
+        # In questo modo  confrontiamo la distanza della cella più vicina successivamente
+        nearest_dist = float('inf')
+        for c in grid.keys():
+            dist = math.sqrt((cell_x1 - c[0]) ** 2 + (cell_y2 - c[1]) ** 2)
+            if dist < nearest_dist:
+                cella_vicina = c
+                nearest_dist = dist
+        cell = cella_vicina
     if person_id not in [p[0] for p in grid[cell]]:
         grid[cell].append((person_id, x, y))
 
-
+#CALCOLO DELLE STATISTICHE DI OGNI CELLA
 def get_cell_stats(grid):
     cell_stats = {}
     for cell, people in grid.items():
@@ -52,6 +71,9 @@ def get_cell_stats(grid):
         }
     return cell_stats
 
+
+
+#GESTIONE DELL'OUTPUT ATTRAVERSO PANDANS
 cell_stats = get_cell_stats(grid)
 
 results = pd.DataFrame(cell_stats.items(), columns=['cell', 'stats'])
