@@ -52,6 +52,6 @@ dati = leggi_dati_xml(args.file,dimensione_cella)
 
 
 
-results = pd.DataFrame(dati.items(), columns=['celle_visit', 'num_cambi_cella'])
+results = pd.DataFrame(dati.items(), columns=['id', 'num_cambi_cella'])
 results = pd.concat([results.drop(['num_cambi_cella'], axis=1), results['num_cambi_cella'].apply(pd.Series)], axis=1)
 results.to_csv('cambi_cella_pedoni.csv', index=False)
