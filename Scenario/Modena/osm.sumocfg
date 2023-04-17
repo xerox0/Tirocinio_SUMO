@@ -7,22 +7,17 @@
 
     <input>
 	    <net-file value="osm.net.xml"/>
-	    <route-files value="osm.rou.xml,peds.rou.xml"/>
-        <additional-files value="osm.poly.xml"/>
+	    <route-files value="peds.rou.xml"/>
+            <additional-files value="osm.poly.xml"/>
     </input>
     <output>
 	    <netstate-dump value="base.xml" />
 	    <!--<full-output value="full_output.xml" />-->
-            <fcd-output value="fcd_dump.xml" />
+            <fcd-output value="fcd_dump2.xml" />
     </output>
     <processing>
-        <ignore-route-errors value="true"/>
+        <ignore-route-errors value="false"/>
     </processing>
-
-    <routing>
-        <device.rerouting.adaptation-steps value="18"/>
-        <device.rerouting.adaptation-interval value="10"/>
-    </routing>
 
     <report>
         <verbose value="true"/>

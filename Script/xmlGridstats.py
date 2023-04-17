@@ -8,8 +8,8 @@ import argparse
 
 
 GRID_SIZE = 10
-MIN_X, MAX_X = -850, 850
-MIN_Y, MAX_Y = -850, 850
+MIN_X, MAX_X = -900, 900
+MIN_Y, MAX_Y = -900, 900
 
 
 grid = {}
@@ -35,7 +35,9 @@ for person in root.findall('.//person'):
     x, y = float(person.get('x')), float(person.get('y'))
     cell_x1 = GRID_SIZE * (math.floor(x/GRID_SIZE))
     cell_y1 = GRID_SIZE * (math.floor(y/GRID_SIZE))
+
     cell_x2 = cell_x1 + GRID_SIZE
+
     cell_y2 = cell_y1 + GRID_SIZE
     cell = (cell_x1, cell_y1, cell_x2, cell_y2)
 
